@@ -1,0 +1,2049 @@
+image_name,cii_score,impact_category,primary_driver,extent_contribution_pct,concentration_contribution_pct,scale_contribution_pct,change_percentage,grid_density_max,largest_region_area,connected_region_count
+test_100_10.png,30.271,Moderate Impact,Concentration (Local Cluster),17.21,49.51,33.28,3.256226,42.822266,665.0,6
+test_100_11.png,66.5344,High Impact,Extent (Coverage),59.04,23.84,17.13,24.549866,45.3125,851.0,31
+test_100_12.png,67.2587,High Impact,Extent (Coverage),59.47,23.43,17.1,28.752136,45.019531,867.0,35
+test_100_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_100_14.png,51.5999,Moderate Impact,Extent (Coverage),55.67,21.81,22.52,17.953491,32.15332,885.0,20
+test_100_15.png,66.8347,High Impact,Extent (Coverage),59.85,22.62,17.53,31.152344,43.188477,900.0,37
+test_100_16.png,62.994,High Impact,Extent (Coverage),60.16,21.22,18.62,23.686218,38.183594,902.0,30
+test_100_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_100_2.png,16.875,Low Impact,Structural Scale (Object Footprint),16.36,33.77,49.86,1.725769,16.28418,464.0,9
+test_100_3.png,6.5515,Low Impact,Structural Scale (Object Footprint),8.16,19.3,72.54,0.334167,3.613281,148.0,2
+test_100_4.png,41.894,Moderate Impact,Extent (Coverage),42.07,31.08,26.85,11.01532,37.207031,829.0,14
+test_100_5.png,12.8876,Low Impact,Structural Scale (Object Footprint),8.47,27.45,64.08,0.682068,10.107422,447.0,1
+test_100_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_100_7.png,41.4959,Moderate Impact,Extent (Coverage),36.3,29.8,33.9,9.414673,35.327148,1297.0,12
+test_100_8.png,65.7852,High Impact,Extent (Coverage),60.8,22.07,17.13,28.817749,41.479492,832.0,40
+test_100_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_10_10.png,64.6192,High Impact,Extent (Coverage),55.7,23.55,20.75,22.496033,43.481445,1178.0,20
+test_101_10.png,75.8911,High Impact,Concentration (Local Cluster),25.4,41.66,32.94,12.046814,90.332031,7895.0,1
+test_101_11.png,23.915,Low Impact,Structural Scale (Object Footprint),11.78,33.34,54.88,1.760864,22.77832,1129.0,2
+test_101_12.png,59.2249,High Impact,Concentration (Local Cluster),29.16,36.53,34.3,10.795593,61.816406,2705.0,4
+test_101_13.png,16.0924,Low Impact,Structural Scale (Object Footprint),26.12,21.03,52.85,2.627563,9.667969,474.0,6
+test_101_14.png,74.635,High Impact,Concentration (Local Cluster),27.36,39.14,33.5,12.762451,83.47168,7267.0,5
+test_101_15.png,48.1133,Moderate Impact,Concentration (Local Cluster),28.47,40.17,31.36,8.560181,55.224609,1492.0,7
+test_101_16.png,43.7324,Moderate Impact,Structural Scale (Object Footprint),19.47,35.76,44.78,5.32074,44.677734,2513.0,4
+test_10_11.png,58.7862,High Impact,Extent (Coverage),49.33,27.97,22.7,18.125916,46.972656,1167.0,17
+test_101_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_10_12.png,47.996,Moderate Impact,Extent (Coverage),36.93,35.11,27.96,11.079407,48.144531,1180.0,8
+test_101_2.png,85.2405,High Impact,Concentration (Local Cluster),33.47,37.2,29.33,17.831421,90.600586,11686.0,1
+test_10_13.png,70.7226,High Impact,Extent (Coverage),56.56,23.49,19.95,25.801086,47.460938,1305.0,21
+test_101_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_10_14.png,51.5077,Moderate Impact,Extent (Coverage),46.61,26.24,27.14,15.005493,38.623047,1281.0,14
+test_101_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_10_15.png,53.8806,Moderate Impact,Extent (Coverage),44.36,30.34,25.3,14.938354,46.704102,1218.0,13
+test_101_5.png,7.5308,Low Impact,Structural Scale (Object Footprint),6.84,17.81,75.35,0.32196,3.833008,211.0,1
+test_10_16.png,69.9917,High Impact,Extent (Coverage),57.15,23.11,19.74,30.072021,46.21582,1251.0,22
+test_101_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_101_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_101_8.png,9.5023,Low Impact,Structural Scale (Object Footprint),12.49,25.99,61.53,0.741577,7.055664,224.0,3
+test_101_9.png,23.9238,Low Impact,Structural Scale (Object Footprint),17.21,31.11,51.68,2.572632,21.264648,1002.0,2
+test_10_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_102_10.png,41.2712,Moderate Impact,Concentration (Local Cluster),12.56,43.83,43.61,3.239441,51.68457,2123.0,1
+test_102_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_102_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_102_13.png,73.5242,High Impact,Extent (Coverage),39.79,26.21,34.0,18.284607,55.053711,9238.0,3
+test_102_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_102_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_102_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_102_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_102_2.png,45.5488,Moderate Impact,Concentration (Local Cluster),13.09,44.52,42.39,3.727722,57.93457,2443.0,1
+test_102_3.png,97.3853,High Impact,Extent (Coverage),41.07,33.25,25.67,31.777954,92.529297,14444.0,3
+test_102_4.png,92.5293,High Impact,Extent (Coverage),42.65,30.33,27.02,24.667358,80.175781,12759.0,3
+test_102_5.png,19.3393,Low Impact,Structural Scale (Object Footprint),29.84,27.26,42.9,3.607178,15.063477,451.0,11
+test_102_6.png,96.283,High Impact,Extent (Coverage),41.54,32.49,25.97,28.349304,89.379883,13070.0,3
+test_102_7.png,89.3665,High Impact,Extent (Coverage),39.89,32.14,27.97,22.279358,82.055664,12676.0,3
+test_102_8.png,52.1171,Moderate Impact,Concentration (Local Cluster),13.36,46.61,40.03,4.351807,69.40918,2852.0,1
+test_102_9.png,90.3027,High Impact,Extent (Coverage),36.64,35.67,27.68,20.680237,92.041016,13535.0,2
+test_10_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_103_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_103_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_103_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_103_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_103_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_103_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_103_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_103_1.png,36.1376,Moderate Impact,Concentration (Local Cluster),22.38,43.15,34.47,5.053711,44.555664,1017.0,9
+test_103_2.png,29.5283,Low Impact,Structural Scale (Object Footprint),30.69,28.79,40.52,5.664062,24.291992,938.0,11
+test_103_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_103_4.png,61.5564,High Impact,Structural Scale (Object Footprint),19.31,40.08,40.61,7.429504,70.483398,4869.0,1
+test_103_5.png,32.3376,Moderate Impact,Extent (Coverage),38.48,26.24,35.28,7.777405,24.243164,853.0,14
+test_103_6.png,17.6103,Low Impact,Structural Scale (Object Footprint),16.89,36.59,46.53,1.858521,18.408203,440.0,4
+test_103_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_103_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_103_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_10_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_104_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_104_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_104_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_104_13.png,17.0062,Low Impact,Structural Scale (Object Footprint),13.01,30.45,56.54,1.382446,14.794922,606.0,2
+test_104_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_104_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_104_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_104_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_104_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_104_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_104_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_104_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_104_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_104_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_104_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_104_9.png,99.8718,High Impact,Extent (Coverage),40.05,34.92,25.03,27.684021,99.633789,18143.0,1
+test_10_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_105_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_105_11.png,20.3559,Low Impact,Structural Scale (Object Footprint),18.52,27.58,53.9,2.355957,16.040039,789.0,3
+test_105_12.png,22.6573,Low Impact,Structural Scale (Object Footprint),22.64,30.21,47.15,3.205872,19.555664,748.0,4
+test_105_13.png,72.1839,High Impact,Extent (Coverage),46.2,25.89,27.91,20.843506,53.393555,2660.0,20
+test_105_14.png,26.8692,Low Impact,Structural Scale (Object Footprint),28.62,29.93,41.45,4.806519,22.973633,813.0,6
+test_105_15.png,19.6215,Low Impact,Structural Scale (Object Footprint),14.53,36.58,48.89,1.782227,20.507812,603.0,2
+test_105_16.png,38.599,Moderate Impact,Extent (Coverage),43.48,27.92,28.61,10.488892,30.786133,799.0,14
+test_105_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_105_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_105_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_105_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_105_5.png,34.1943,Moderate Impact,Concentration (Local Cluster),17.96,47.83,34.21,3.837585,46.728516,897.0,5
+test_105_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_105_7.png,2.6955,Low Impact,Structural Scale (Object Footprint),3.17,11.1,85.73,0.053406,0.854492,35.0,1
+test_105_8.png,60.221,High Impact,Extent (Coverage),52.73,23.57,23.7,19.847107,40.551758,1335.0,20
+test_105_9.png,54.4132,Moderate Impact,Extent (Coverage),39.62,33.95,26.43,13.475037,52.783203,1355.0,15
+test_10_5.png,25.1372,Low Impact,Structural Scale (Object Footprint),11.67,40.86,47.47,1.834106,29.345703,933.0,2
+test_106_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_106_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_106_12.png,18.9211,Low Impact,Structural Scale (Object Footprint),10.15,31.93,57.92,1.200867,17.260742,787.0,1
+test_106_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_106_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_106_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_106_16.png,32.5279,Moderate Impact,Structural Scale (Object Footprint),11.9,40.27,47.83,2.420044,37.426758,1586.0,1
+test_106_1.png,18.1197,Low Impact,Structural Scale (Object Footprint),9.53,33.15,57.32,1.078796,17.163086,707.0,1
+test_106_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_106_3.png,34.5802,Moderate Impact,Concentration (Local Cluster),25.22,39.64,35.15,5.450439,39.160156,968.0,7
+test_106_4.png,70.8991,High Impact,Extent (Coverage),56.42,24.35,19.24,26.745605,49.316406,1219.0,29
+test_106_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_106_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_106_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_106_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_106_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_10_6.png,33.8182,Moderate Impact,Concentration (Local Cluster),21.7,40.43,37.87,4.586792,39.0625,1075.0,3
+test_107_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_107_11.png,19.3349,Low Impact,Structural Scale (Object Footprint),9.75,34.12,56.13,1.177979,18.847656,772.0,1
+test_107_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_107_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_107_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_107_15.png,17.4533,Low Impact,Structural Scale (Object Footprint),12.31,21.3,66.39,1.342773,10.620117,880.0,1
+test_107_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_107_1.png,9.7186,Low Impact,Structural Scale (Object Footprint),7.91,20.75,71.34,0.480652,5.761719,315.0,1
+test_107_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_107_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_107_4.png,9.7862,Low Impact,Structural Scale (Object Footprint),8.26,19.12,72.62,0.505066,5.34668,331.0,1
+test_107_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_107_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_107_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_107_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_107_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_10_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_108_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_108_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_108_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_108_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_108_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_108_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_108_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_108_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_108_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_108_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_108_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_108_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_108_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_108_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_108_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_108_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_10_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_109_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_109_11.png,43.5802,Moderate Impact,Structural Scale (Object Footprint),21.97,38.21,39.81,5.984497,47.583008,1973.0,2
+test_109_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_109_13.png,19.2808,Low Impact,Structural Scale (Object Footprint),9.74,34.08,56.18,1.173401,18.774414,769.0,1
+test_109_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_109_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_109_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_109_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_109_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_109_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_109_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_109_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_109_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_109_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_109_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_109_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_10_9.png,46.392,Moderate Impact,Extent (Coverage),38.93,30.0,31.06,11.288452,39.770508,1361.0,10
+test_110_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_110_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_110_12.png,3.7569,Low Impact,Structural Scale (Object Footprint),4.03,14.1,81.87,0.094604,1.513672,62.0,1
+test_110_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_110_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_110_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_110_16.png,5.2625,Low Impact,Structural Scale (Object Footprint),7.38,25.82,66.81,0.242615,3.881836,81.0,3
+test_110_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_110_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_110_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_110_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_110_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_110_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_110_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_110_8.png,36.6324,Moderate Impact,Concentration (Local Cluster),18.21,44.04,37.75,4.170227,46.09375,1253.0,5
+test_110_9.png,56.1426,High Impact,Structural Scale (Object Footprint),25.37,30.11,44.53,8.900452,48.291016,5167.0,2
+test_1_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_11_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_111_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_111_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_111_12.png,29.4143,Low Impact,Structural Scale (Object Footprint),26.44,33.49,40.06,4.86145,28.149414,910.0,6
+test_111_13.png,63.548,High Impact,Extent (Coverage),59.28,22.85,17.88,23.542786,41.479492,846.0,31
+test_111_14.png,23.9699,Low Impact,Structural Scale (Object Footprint),25.87,31.73,42.4,3.875732,21.728516,677.0,7
+test_111_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_111_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_11_11.png,28.9731,Low Impact,Concentration (Local Cluster),16.68,44.62,38.7,3.019714,36.938477,824.0,3
+test_111_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_11_12.png,18.972,Low Impact,Structural Scale (Object Footprint),14.34,34.77,50.89,1.699829,18.847656,611.0,3
+test_111_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_11_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_111_3.png,45.8584,Moderate Impact,Structural Scale (Object Footprint),25.87,34.4,39.73,7.414246,45.068359,2176.0,5
+test_11_14.png,37.3212,Moderate Impact,Concentration (Local Cluster),33.75,35.69,30.55,7.873535,38.061523,852.0,7
+test_111_4.png,1.485,Low Impact,Structural Scale (Object Footprint),1.97,6.9,91.12,0.018311,0.292969,12.0,1
+test_11_15.png,17.823,Low Impact,Structural Scale (Object Footprint),9.44,33.03,57.53,1.051331,16.821289,689.0,1
+test_111_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_11_16.png,26.8918,Low Impact,Structural Scale (Object Footprint),20.82,33.87,45.31,3.49884,26.025391,973.0,3
+test_111_6.png,16.6321,Low Impact,Structural Scale (Object Footprint),9.17,32.11,58.72,0.953674,15.258789,625.0,1
+test_111_7.png,34.7124,Moderate Impact,Concentration (Local Cluster),18.66,44.14,37.2,4.048157,43.774414,1093.0,4
+test_111_8.png,22.4235,Low Impact,Structural Scale (Object Footprint),19.4,29.3,51.29,2.719116,18.774414,867.0,3
+test_111_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_1_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_11_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_112_10.png,11.1531,Low Impact,Structural Scale (Object Footprint),7.66,26.82,65.52,0.534058,8.544922,350.0,1
+test_112_11.png,46.0639,Moderate Impact,Structural Scale (Object Footprint),21.2,35.02,43.78,6.103516,46.09375,2665.0,2
+test_112_12.png,39.5808,Moderate Impact,Structural Scale (Object Footprint),18.62,31.22,50.17,4.605103,35.302734,2584.0,2
+test_112_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_112_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_112_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_112_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_112_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_112_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_112_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_112_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_112_5.png,23.7392,Low Impact,Structural Scale (Object Footprint),16.22,33.55,50.23,2.406311,22.753906,932.0,2
+test_112_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_112_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_112_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_112_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_1_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_11_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_113_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_113_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_113_12.png,80.0972,High Impact,Extent (Coverage),49.94,22.25,27.81,27.999878,50.927734,3251.0,14
+test_113_13.png,9.4306,Low Impact,Structural Scale (Object Footprint),7.04,24.65,68.31,0.415039,6.640625,272.0,1
+test_113_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_113_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_113_16.png,89.3274,High Impact,Extent (Coverage),44.78,27.23,27.99,33.334351,69.506836,5035.0,9
+test_113_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_113_2.png,4.3728,Low Impact,Structural Scale (Object Footprint),4.47,15.63,79.9,0.12207,1.953125,80.0,1
+test_113_3.png,44.0386,Moderate Impact,Structural Scale (Object Footprint),13.84,41.83,44.32,3.81012,52.636719,2497.0,1
+test_113_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_113_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_113_6.png,24.0676,Low Impact,Structural Scale (Object Footprint),14.92,22.83,62.25,2.244568,15.698242,1471.0,1
+test_113_7.png,21.4066,Low Impact,Structural Scale (Object Footprint),15.66,16.73,67.62,2.095032,10.229492,1373.0,1
+test_113_8.png,65.7577,High Impact,Extent (Coverage),37.61,29.0,33.38,15.458679,54.492188,3158.0,10
+test_113_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_1_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_11_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_114_10.png,31.3356,Moderate Impact,Structural Scale (Object Footprint),11.55,40.44,48.01,2.262878,36.206055,1483.0,1
+test_114_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_114_12.png,18.4806,Low Impact,Structural Scale (Object Footprint),14.21,30.42,55.36,1.641846,16.064453,686.0,2
+test_114_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_114_14.png,34.7104,Moderate Impact,Structural Scale (Object Footprint),14.86,39.86,45.28,3.224182,39.526367,1619.0,2
+test_114_15.png,25.1713,Low Impact,Structural Scale (Object Footprint),18.96,30.82,50.21,2.983093,22.167969,1047.0,2
+test_114_16.png,22.0462,Low Impact,Structural Scale (Object Footprint),14.89,31.74,53.36,2.052307,19.995117,907.0,3
+test_114_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_114_2.png,7.3455,Low Impact,Structural Scale (Object Footprint),6.15,21.52,72.33,0.282288,4.516602,185.0,1
+test_114_3.png,16.4106,Low Impact,Structural Scale (Object Footprint),14.1,29.37,56.53,1.446533,13.769531,564.0,2
+test_114_4.png,18.5938,Low Impact,Structural Scale (Object Footprint),15.2,34.37,50.42,1.766968,18.261719,576.0,3
+test_114_5.png,34.6891,Moderate Impact,Concentration (Local Cluster),21.52,42.02,36.45,4.666138,41.650391,1048.0,4
+test_114_6.png,73.2324,High Impact,Extent (Coverage),54.62,23.29,22.09,25.914001,48.730469,1715.0,19
+test_114_7.png,38.2459,Moderate Impact,Concentration (Local Cluster),23.91,46.29,29.79,5.715942,50.585938,851.0,5
+test_114_8.png,15.3021,Low Impact,Structural Scale (Object Footprint),9.06,30.1,60.84,0.866699,13.15918,568.0,1
+test_114_9.png,7.0126,Low Impact,Structural Scale (Object Footprint),5.99,20.96,73.05,0.262451,4.199219,172.0,1
+test_1_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_11_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_115_10.png,13.9735,Low Impact,Structural Scale (Object Footprint),10.94,38.28,50.78,0.9552,15.283203,330.0,3
+test_115_11.png,56.218,High Impact,Structural Scale (Object Footprint),27.03,36.4,36.56,9.498596,58.47168,2769.0,6
+test_115_12.png,63.117,High Impact,Extent (Coverage),40.17,31.35,28.48,15.846252,56.542969,2117.0,13
+test_115_13.png,51.1736,Moderate Impact,Extent (Coverage),40.07,26.38,33.55,12.814331,38.574219,1932.0,9
+test_115_14.png,27.5411,Low Impact,Concentration (Local Cluster),13.54,45.58,40.89,2.330017,35.864258,831.0,2
+test_115_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_115_16.png,28.9514,Low Impact,Concentration (Local Cluster),14.18,44.98,40.84,2.566528,37.207031,916.0,3
+test_115_1.png,58.4066,High Impact,Extent (Coverage),41.83,34.64,23.52,15.270996,57.8125,1237.0,12
+test_115_2.png,79.3534,High Impact,Extent (Coverage),50.41,25.9,23.7,35.626221,58.71582,2317.0,29
+test_115_3.png,83.6468,High Impact,Extent (Coverage),47.82,24.83,27.35,38.5849,59.350586,3429.0,25
+test_115_4.png,82.9488,High Impact,Extent (Coverage),48.22,24.25,27.53,36.805725,57.470703,3417.0,28
+test_115_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_115_6.png,66.6222,High Impact,Extent (Coverage),51.92,28.58,19.51,21.617126,54.394531,1107.0,17
+test_115_7.png,85.5888,High Impact,Extent (Coverage),46.74,25.49,27.78,42.147827,62.329102,3704.0,24
+test_115_8.png,76.5608,High Impact,Extent (Coverage),52.25,25.23,22.52,35.07843,55.200195,1948.0,29
+test_115_9.png,34.0484,Moderate Impact,Structural Scale (Object Footprint),31.79,32.9,35.31,6.765747,32.006836,947.0,5
+test_1_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_11_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_116_10.png,3.8822,Low Impact,Structural Scale (Object Footprint),4.21,13.43,82.36,0.102234,1.489258,67.0,1
+test_116_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_116_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_116_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_116_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_116_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_116_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_116_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_116_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_116_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_116_4.png,10.6126,Low Impact,Structural Scale (Object Footprint),7.48,26.17,66.36,0.495911,7.93457,325.0,1
+test_116_5.png,75.647,High Impact,Concentration (Local Cluster),32.61,34.34,33.05,15.419006,74.21875,5005.0,3
+test_116_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_116_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_116_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_116_9.png,25.4797,Low Impact,Structural Scale (Object Footprint),21.45,34.14,44.41,3.416443,24.853516,839.0,5
+test_1_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_11_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_117_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_117_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_117_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_117_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_117_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_117_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_117_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_117_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_117_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_117_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_117_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_117_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_117_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_117_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_117_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_117_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_11_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_118_10.png,68.0223,High Impact,Extent (Coverage),58.8,22.9,18.3,26.229858,44.506836,1015.0,23
+test_118_11.png,57.5879,High Impact,Extent (Coverage),50.15,27.84,22.01,18.051147,45.800781,1053.0,15
+test_118_12.png,14.4278,Low Impact,Structural Scale (Object Footprint),11.41,23.33,65.26,1.028442,9.619141,581.0,2
+test_118_13.png,32.9907,Moderate Impact,Structural Scale (Object Footprint),32.77,30.64,36.59,6.756592,28.881836,955.0,9
+test_118_14.png,41.0178,Moderate Impact,Extent (Coverage),39.86,30.96,29.18,10.218811,36.279297,939.0,12
+test_118_15.png,61.7566,High Impact,Extent (Coverage),58.3,21.46,20.24,22.502136,37.866211,1024.0,21
+test_118_16.png,68.7743,High Impact,Extent (Coverage),52.27,29.65,18.09,22.467041,58.251953,1014.0,22
+test_118_1.png,56.8089,High Impact,Concentration (Local Cluster),32.7,38.76,28.54,11.608887,62.915039,1723.0,13
+test_118_2.png,70.0125,High Impact,Extent (Coverage),57.13,26.2,16.66,28.334045,52.416992,892.0,27
+test_118_3.png,62.9691,High Impact,Extent (Coverage),49.74,31.6,18.65,19.577026,56.860352,904.0,17
+test_118_4.png,5.6549,Low Impact,Structural Scale (Object Footprint),5.27,18.43,76.3,0.186157,2.978516,122.0,1
+test_118_5.png,51.7648,Moderate Impact,Extent (Coverage),45.15,30.87,23.98,14.607239,45.654297,1010.0,15
+test_118_6.png,68.4388,High Impact,Extent (Coverage),55.93,26.76,17.31,23.924255,52.319336,920.0,26
+test_118_7.png,22.2064,Low Impact,Structural Scale (Object Footprint),17.87,40.21,41.92,2.479553,25.512695,568.0,5
+test_118_8.png,8.9627,Low Impact,Structural Scale (Object Footprint),7.22,21.83,70.95,0.404358,5.59082,265.0,1
+test_118_9.png,58.9592,High Impact,Extent (Coverage),53.52,25.52,20.96,19.720459,42.993164,1001.0,20
+test_11_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_119_10.png,28.9925,Low Impact,Structural Scale (Object Footprint),21.41,35.81,42.78,3.88031,29.663086,1008.0,4
+test_119_11.png,50.1269,Moderate Impact,Extent (Coverage),49.59,25.42,25.0,15.534973,36.401367,1029.0,17
+test_119_12.png,55.692,High Impact,Extent (Coverage),43.86,34.25,21.89,15.267944,54.492188,974.0,13
+test_119_13.png,63.7344,High Impact,Extent (Coverage),57.22,24.32,18.46,22.793579,44.287109,907.0,28
+test_119_14.png,50.8757,Moderate Impact,Extent (Coverage),48.82,28.57,22.61,15.524292,41.52832,867.0,18
+test_119_15.png,14.6401,Low Impact,Structural Scale (Object Footprint),8.69,30.41,60.9,0.794983,12.719727,521.0,1
+test_119_16.png,16.9321,Low Impact,Structural Scale (Object Footprint),9.24,32.35,58.41,0.978088,15.649414,641.0,1
+test_119_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_119_2.png,16.9993,Low Impact,Structural Scale (Object Footprint),10.94,31.52,57.54,1.16272,15.307617,627.0,2
+test_119_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_119_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_119_5.png,18.6269,Low Impact,Structural Scale (Object Footprint),10.66,37.3,52.05,1.24054,19.848633,616.0,2
+test_119_6.png,34.2185,Moderate Impact,Concentration (Local Cluster),23.27,40.95,35.77,4.977417,40.039062,982.0,4
+test_119_7.png,53.1305,Moderate Impact,Extent (Coverage),51.96,26.33,21.71,17.254639,39.96582,872.0,17
+test_119_8.png,44.3979,Moderate Impact,Extent (Coverage),40.84,31.22,27.95,11.331177,39.599609,1009.0,10
+test_119_9.png,51.5865,Moderate Impact,Concentration (Local Cluster),28.22,41.28,30.51,9.09729,60.839844,1623.0,7
+test_11_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_1_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_120_10.png,31.6359,Moderate Impact,Structural Scale (Object Footprint),23.96,37.03,39.01,4.737854,33.47168,998.0,4
+test_120_11.png,73.0371,High Impact,Extent (Coverage),54.77,25.63,19.6,26.423645,53.491211,1343.0,21
+test_120_12.png,71.2465,High Impact,Extent (Coverage),56.14,21.55,22.3,28.340149,43.87207,1655.0,22
+test_120_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_120_14.png,61.6272,High Impact,Extent (Coverage),48.9,30.81,20.29,18.833923,54.248047,1025.0,16
+test_120_15.png,58.2802,High Impact,Extent (Coverage),52.92,26.04,21.04,19.277954,43.359375,985.0,19
+test_120_16.png,38.9201,Moderate Impact,Extent (Coverage),35.96,34.65,29.4,8.746338,38.525391,858.0,9
+test_120_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_120_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_120_3.png,71.8039,High Impact,Extent (Coverage),55.71,24.86,19.43,29.362488,51.000977,1276.0,21
+test_120_4.png,50.5758,Moderate Impact,Concentration (Local Cluster),37.43,38.66,23.92,11.830139,55.859375,959.0,10
+test_120_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_120_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_120_7.png,61.8681,High Impact,Extent (Coverage),51.53,26.1,22.37,19.924927,46.142578,1255.0,18
+test_120_8.png,71.2848,High Impact,Extent (Coverage),56.11,23.27,20.62,26.396179,47.387695,1416.0,23
+test_120_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_12_10.png,56.3581,High Impact,Extent (Coverage),46.48,26.34,27.18,16.372681,42.407227,1538.0,16
+test_121_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_121_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_121_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_121_13.png,74.344,High Impact,Extent (Coverage),43.27,27.47,29.26,20.103455,58.349609,3102.0,13
+test_121_14.png,75.4529,High Impact,Extent (Coverage),41.51,25.36,33.13,19.5755,54.663086,4553.0,8
+test_121_15.png,2.4222,Low Impact,Structural Scale (Object Footprint),2.92,10.23,86.85,0.04425,0.708008,29.0,1
+test_121_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_12_11.png,58.348,High Impact,Extent (Coverage),52.16,24.19,23.65,19.020081,40.332031,1248.0,16
+test_121_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_12_12.png,67.294,High Impact,Extent (Coverage),54.22,25.43,20.35,22.802734,48.901367,1229.0,20
+test_121_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_12_13.png,51.2151,Moderate Impact,Extent (Coverage),40.48,27.71,31.81,12.957764,40.551758,1739.0,8
+test_121_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_12_14.png,68.2675,High Impact,Extent (Coverage),47.28,29.31,23.4,20.173645,57.177734,1673.0,10
+test_121_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_12_15.png,66.7931,High Impact,Extent (Coverage),52.05,26.61,21.34,21.72699,50.78125,1332.0,18
+test_121_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_12_16.png,52.5787,Moderate Impact,Extent (Coverage),48.84,26.12,25.04,16.05072,39.233398,1136.0,17
+test_121_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_121_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_121_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_121_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_12_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_122_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_122_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_122_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_122_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_122_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_122_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_122_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_122_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_122_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_122_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_122_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_122_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_122_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_122_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_122_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_122_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_12_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_123_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_123_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_123_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_123_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_123_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_123_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_123_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_123_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_123_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_123_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_123_4.png,3.4261,Low Impact,Structural Scale (Object Footprint),3.78,13.22,83.0,0.080872,1.293945,53.0,1
+test_123_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_123_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_123_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_123_8.png,33.3116,Moderate Impact,Concentration (Local Cluster),28.08,39.14,32.77,5.847168,37.255859,781.0,7
+test_123_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_12_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_124_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_124_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_124_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_124_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_124_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_124_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_124_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_124_1.png,55.4285,High Impact,Extent (Coverage),52.63,26.65,20.71,18.232727,42.211914,864.0,22
+test_124_2.png,48.1045,Moderate Impact,Extent (Coverage),46.08,29.13,24.79,13.853455,40.039062,932.0,17
+test_124_3.png,4.3068,Low Impact,Structural Scale (Object Footprint),4.42,15.48,80.1,0.119019,1.904297,78.0,1
+test_124_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_124_5.png,14.2027,Low Impact,Structural Scale (Object Footprint),9.21,32.25,58.54,0.817871,13.085938,453.0,2
+test_124_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_124_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_124_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_124_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_12_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_125_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_125_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_125_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_125_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_125_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_125_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_125_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_125_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_125_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_125_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_125_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_125_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_125_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_125_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_125_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_125_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_12_5.png,51.8859,Moderate Impact,Extent (Coverage),46.7,25.18,28.12,15.144348,37.329102,1395.0,13
+test_126_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_126_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_126_12.png,32.4275,Moderate Impact,Structural Scale (Object Footprint),21.43,34.78,43.78,4.344177,32.226562,1321.0,5
+test_126_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_126_14.png,23.297,Low Impact,Structural Scale (Object Footprint),10.65,35.91,53.44,1.550293,23.901367,1016.0,1
+test_126_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_126_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_126_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_126_2.png,33.3323,Moderate Impact,Structural Scale (Object Footprint),31.6,32.2,36.2,6.584167,30.664062,954.0,8
+test_126_3.png,51.0072,Moderate Impact,Extent (Coverage),42.83,31.65,25.53,13.653564,46.118164,1111.0,14
+test_126_4.png,52.8573,Moderate Impact,Extent (Coverage),50.18,25.11,24.71,16.578674,37.915039,1118.0,16
+test_126_5.png,21.0094,Low Impact,Structural Scale (Object Footprint),10.06,35.22,54.71,1.321411,21.142578,866.0,1
+test_126_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_126_7.png,23.0679,Low Impact,Structural Scale (Object Footprint),11.2,36.86,51.95,1.61438,24.291992,941.0,2
+test_126_8.png,73.4152,High Impact,Extent (Coverage),53.37,27.61,19.02,24.488831,57.910156,1278.0,22
+test_126_9.png,15.1434,Low Impact,Structural Scale (Object Footprint),10.95,21.84,67.22,1.036072,9.448242,679.0,1
+test_12_6.png,35.4153,Moderate Impact,Structural Scale (Object Footprint),21.85,38.51,39.65,4.83551,38.964844,1292.0,4
+test_127_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_127_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_127_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_127_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_127_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_127_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_127_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_127_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_127_2.png,39.7356,Moderate Impact,Extent (Coverage),36.65,32.45,30.9,9.101868,36.84082,988.0,9
+test_127_3.png,53.4246,Moderate Impact,Extent (Coverage),47.36,28.84,23.81,15.812683,44.018555,1060.0,17
+test_127_4.png,56.7195,High Impact,Concentration (Local Cluster),33.63,40.84,25.53,11.921692,66.186523,1374.0,8
+test_127_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_127_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_127_7.png,13.926,Low Impact,Structural Scale (Object Footprint),10.33,21.6,68.08,0.898743,8.59375,589.0,1
+test_127_8.png,0.5744,Low Impact,Structural Scale (Object Footprint),0.85,2.98,96.17,0.003052,0.048828,2.0,1
+test_127_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_12_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_128_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_128_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_128_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_128_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_128_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_128_15.png,6.1899,Low Impact,Structural Scale (Object Footprint),9.07,22.09,68.84,0.350952,3.90625,119.0,2
+test_128_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_128_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_128_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_128_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_128_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_128_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_128_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_128_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_128_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_128_9.png,8.8706,Low Impact,Structural Scale (Object Footprint),8.28,15.32,76.4,0.45929,3.881836,301.0,1
+test_12_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_12_9.png,46.088,Moderate Impact,Extent (Coverage),38.92,25.66,35.42,11.212158,33.789062,1746.0,8
+test_1_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_13_10.png,2.4222,Low Impact,Structural Scale (Object Footprint),2.92,10.23,86.85,0.04425,0.708008,29.0,1
+test_13_11.png,73.4406,High Impact,Extent (Coverage),52.33,25.07,22.59,24.021912,52.612305,1804.0,14
+test_13_12.png,44.8754,Moderate Impact,Extent (Coverage),44.14,24.09,31.77,12.380981,30.883789,1332.0,8
+test_13_13.png,17.7677,Low Impact,Structural Scale (Object Footprint),9.43,32.99,57.58,1.046753,16.748047,686.0,1
+test_13_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_13_15.png,28.8536,Low Impact,Structural Scale (Object Footprint),13.55,36.69,49.76,2.442932,30.249023,1351.0,2
+test_13_16.png,24.6435,Low Impact,Structural Scale (Object Footprint),19.06,30.17,50.77,2.935791,21.240234,1026.0,2
+test_13_1.png,36.6003,Moderate Impact,Structural Scale (Object Footprint),20.14,37.28,42.57,4.608154,38.989258,1591.0,2
+test_13_2.png,67.2221,High Impact,Extent (Coverage),50.79,24.33,24.88,21.339417,46.728516,1833.0,11
+test_13_3.png,61.4935,High Impact,Extent (Coverage),46.49,27.87,25.64,17.866516,48.974609,1629.0,11
+test_13_4.png,40.061,Moderate Impact,Concentration (Local Cluster),30.28,35.9,33.82,7.582092,41.088867,1203.0,8
+test_13_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_13_6.png,58.1527,High Impact,Extent (Coverage),41.7,29.46,28.84,15.156555,48.950195,1843.0,11
+test_13_7.png,75.0684,High Impact,Extent (Coverage),52.74,26.19,21.07,24.742126,56.176758,1640.0,17
+test_13_8.png,65.855,High Impact,Extent (Coverage),54.01,24.71,21.29,22.229004,46.484375,1288.0,18
+test_13_9.png,7.8809,Low Impact,Structural Scale (Object Footprint),8.12,28.41,63.48,0.39978,6.396484,164.0,2
+test_1_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_14_10.png,59.1484,High Impact,Extent (Coverage),47.74,26.47,25.79,17.649841,44.726562,1525.0,14
+test_14_11.png,13.1459,Low Impact,Structural Scale (Object Footprint),8.45,29.58,61.97,0.694275,11.108398,435.0,2
+test_14_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_14_13.png,56.7068,High Impact,Extent (Coverage),46.58,28.22,25.2,16.508484,45.727539,1338.0,11
+test_14_14.png,35.6768,Moderate Impact,Concentration (Local Cluster),26.2,37.72,36.08,5.841064,38.452148,1086.0,4
+test_14_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_14_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_14_1.png,66.3782,High Impact,Extent (Coverage),55.34,23.36,21.3,22.956848,44.311523,1310.0,17
+test_14_2.png,49.6812,Moderate Impact,Extent (Coverage),44.03,28.29,27.68,13.671875,40.161133,1239.0,11
+test_14_3.png,30.4198,Moderate Impact,Concentration (Local Cluster),14.36,46.63,39.01,2.729797,40.527344,923.0,2
+test_14_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_14_5.png,70.3866,High Impact,Extent (Coverage),56.83,21.67,21.5,26.991272,43.579102,1501.0,22
+test_14_6.png,72.2485,High Impact,Extent (Coverage),55.36,24.72,19.92,28.981018,51.025391,1357.0,23
+test_14_7.png,48.363,Moderate Impact,Extent (Coverage),39.96,30.32,29.72,12.078857,41.894531,1354.0,10
+test_14_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_14_9.png,74.0721,High Impact,Extent (Coverage),54.0,25.66,20.34,25.071716,54.296875,1488.0,22
+test_1_4.png,66.7729,High Impact,Extent (Coverage),48.22,27.82,23.96,20.124817,53.076172,1677.0,12
+test_15_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_15_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_15_12.png,38.5073,Moderate Impact,Structural Scale (Object Footprint),26.28,32.15,41.57,6.324768,35.375977,1679.0,3
+test_15_13.png,27.8694,Low Impact,Structural Scale (Object Footprint),15.11,26.67,58.21,2.632141,21.240234,1725.0,1
+test_15_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_15_15.png,18.7924,Low Impact,Structural Scale (Object Footprint),9.64,33.74,56.62,1.132202,18.115234,742.0,1
+test_15_16.png,5.4232,Low Impact,Structural Scale (Object Footprint),5.13,17.96,76.91,0.17395,2.783203,114.0,1
+test_15_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_15_2.png,5.9568,Low Impact,Structural Scale (Object Footprint),5.78,16.35,77.87,0.215149,2.783203,141.0,1
+test_15_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_15_4.png,45.4813,Moderate Impact,Structural Scale (Object Footprint),32.27,28.46,39.26,9.173584,36.987305,2090.0,5
+test_15_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_15_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_15_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_15_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_15_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_1_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_16_10.png,30.3495,Moderate Impact,Structural Scale (Object Footprint),11.89,38.63,49.48,2.255249,33.496094,1478.0,1
+test_16_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_16_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_16_13.png,26.6646,Low Impact,Structural Scale (Object Footprint),16.81,30.19,53.0,2.801514,22.998047,1309.0,2
+test_16_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_16_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_16_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_16_1.png,59.7974,High Impact,Structural Scale (Object Footprint),22.07,36.12,41.81,8.247375,61.71875,5405.0,1
+test_16_2.png,100.0,High Impact,Extent (Coverage),40.0,35.0,25.0,67.51709,100.0,44248.0,1
+test_16_3.png,22.9104,Low Impact,Structural Scale (Object Footprint),11.33,33.08,55.59,1.622009,21.655273,1063.0,1
+test_16_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_16_5.png,42.6158,Moderate Impact,Structural Scale (Object Footprint),21.41,39.06,39.53,5.702209,47.558594,1860.0,3
+test_16_6.png,25.9425,Low Impact,Structural Scale (Object Footprint),13.5,33.37,53.13,2.189636,24.731445,1245.0,2
+test_16_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_16_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_16_9.png,11.0278,Low Impact,Structural Scale (Object Footprint),12.15,19.53,68.32,0.837708,6.152344,372.0,2
+test_1_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_17_10.png,34.8416,Moderate Impact,Structural Scale (Object Footprint),29.3,34.38,36.31,6.381226,34.228516,1049.0,11
+test_17_11.png,40.5713,Moderate Impact,Concentration (Local Cluster),30.03,36.96,33.0,7.615662,42.84668,1175.0,5
+test_17_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_17_13.png,43.3659,Moderate Impact,Concentration (Local Cluster),28.02,42.64,29.34,7.594299,52.832031,1061.0,5
+test_17_14.png,40.6176,Moderate Impact,Concentration (Local Cluster),32.24,36.54,31.22,8.183289,42.407227,1054.0,7
+test_17_15.png,51.6928,Moderate Impact,Extent (Coverage),40.61,33.29,26.1,13.119507,49.169922,1193.0,10
+test_17_16.png,25.2161,Low Impact,Structural Scale (Object Footprint),15.45,31.51,53.03,2.435303,22.705078,1172.0,2
+test_17_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_17_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_17_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_17_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_17_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_17_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_17_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_17_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_17_9.png,47.8778,Moderate Impact,Concentration (Local Cluster),32.67,41.5,25.84,9.77478,56.762695,1003.0,7
+test_1_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_18_10.png,32.0512,Moderate Impact,Structural Scale (Object Footprint),25.37,33.41,41.22,5.082703,30.59082,1144.0,6
+test_18_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_18_12.png,67.9812,High Impact,Structural Scale (Object Footprint),34.75,29.09,36.17,14.762878,56.494141,3962.0,5
+test_18_13.png,59.2163,High Impact,Structural Scale (Object Footprint),23.61,34.17,42.22,8.738708,57.8125,5387.0,2
+test_18_14.png,16.375,Low Impact,Structural Scale (Object Footprint),9.54,30.11,60.35,0.976562,14.086914,640.0,1
+test_18_15.png,38.6426,Moderate Impact,Structural Scale (Object Footprint),25.59,34.05,40.36,6.17981,37.597656,1594.0,3
+test_18_16.png,16.1843,Low Impact,Structural Scale (Object Footprint),15.43,26.24,58.33,1.560974,12.133789,584.0,3
+test_18_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_18_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_18_3.png,55.8241,High Impact,Extent (Coverage),55.18,24.17,20.65,19.252014,38.549805,871.0,20
+test_18_4.png,53.3741,Moderate Impact,Extent (Coverage),60.79,21.02,18.19,20.277405,32.055664,618.0,31
+test_18_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_18_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_18_7.png,24.9393,Low Impact,Structural Scale (Object Footprint),26.12,29.77,44.11,4.071045,21.21582,793.0,6
+test_18_8.png,86.2939,High Impact,Extent (Coverage),46.17,24.85,28.97,24.90387,61.279297,5522.0,25
+test_18_9.png,4.9437,Low Impact,Structural Scale (Object Footprint),4.84,16.94,78.22,0.149536,2.392578,98.0,1
+test_1_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_19_10.png,48.625,Moderate Impact,Concentration (Local Cluster),36.03,36.76,27.21,10.949707,51.074219,1147.0,9
+test_19_11.png,2.4222,Low Impact,Structural Scale (Object Footprint),2.92,10.23,86.85,0.04425,0.708008,29.0,1
+test_19_12.png,18.6262,Low Impact,Structural Scale (Object Footprint),19.24,35.0,45.76,2.23999,18.62793,476.0,7
+test_19_13.png,37.1264,Moderate Impact,Structural Scale (Object Footprint),32.22,33.63,34.16,7.475281,35.668945,1054.0,6
+test_19_14.png,67.618,High Impact,Extent (Coverage),51.17,21.98,26.85,21.624756,42.456055,2161.0,15
+test_19_15.png,77.9277,High Impact,Extent (Coverage),48.95,26.22,24.84,23.838806,58.374023,2455.0,16
+test_19_16.png,39.8214,Moderate Impact,Concentration (Local Cluster),30.16,37.04,32.8,7.507324,42.138672,1118.0,6
+test_19_1.png,25.3851,Low Impact,Structural Scale (Object Footprint),14.21,37.84,47.95,2.255249,27.441406,971.0,2
+test_19_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_19_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_19_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_19_5.png,18.9653,Low Impact,Structural Scale (Object Footprint),17.56,25.77,56.67,2.081299,13.964844,757.0,2
+test_19_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_19_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_19_8.png,3.8986,Low Impact,Structural Scale (Object Footprint),4.13,14.47,81.4,0.100708,1.611328,66.0,1
+test_19_9.png,56.691,High Impact,Structural Scale (Object Footprint),17.09,39.6,43.31,6.056213,64.135742,3951.0,2
+test_1_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_20_10.png,85.266,High Impact,Extent (Coverage),46.91,28.34,24.75,30.467224,69.042969,2918.0,21
+test_20_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_20_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_20_13.png,75.8324,High Impact,Extent (Coverage),52.75,28.01,19.24,36.880493,60.693359,1395.0,28
+test_20_14.png,81.7236,High Impact,Extent (Coverage),48.95,28.51,22.54,32.23114,66.577148,2224.0,20
+test_20_15.png,43.4847,Moderate Impact,Concentration (Local Cluster),28.25,39.62,32.14,7.676697,49.21875,1280.0,7
+test_20_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_20_1.png,44.5697,Moderate Impact,Extent (Coverage),41.53,29.51,28.96,11.569214,37.573242,1092.0,9
+test_20_2.png,73.8041,High Impact,Extent (Coverage),54.2,28.56,17.24,31.919861,60.229492,1061.0,25
+test_20_3.png,86.2622,High Impact,Extent (Coverage),45.24,25.77,28.98,24.3927,63.525391,4810.0,17
+test_20_4.png,85.3796,High Impact,Extent (Coverage),46.85,23.87,29.28,34.074402,58.227539,4606.0,15
+test_20_5.png,77.7988,High Impact,Extent (Coverage),51.41,30.17,18.41,31.156921,67.06543,1345.0,19
+test_20_6.png,72.2288,High Impact,Extent (Coverage),55.38,27.22,17.4,31.098938,56.176758,1035.0,28
+test_20_7.png,55.581,High Impact,Extent (Coverage),46.71,29.29,24.0,16.227722,46.508789,1166.0,16
+test_20_8.png,50.7571,Moderate Impact,Concentration (Local Cluster),22.94,38.75,38.3,7.278442,56.201172,2477.0,8
+test_20_9.png,74.0506,High Impact,Extent (Coverage),54.02,27.33,18.66,34.416199,57.8125,1251.0,27
+test_2_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_21_10.png,95.4028,High Impact,Extent (Coverage),41.93,31.87,26.2,28.468323,86.865234,18057.0,3
+test_21_11.png,89.054,High Impact,Extent (Coverage),44.92,27.01,28.07,26.568604,68.725586,17196.0,2
+test_21_12.png,16.1568,Low Impact,Structural Scale (Object Footprint),10.67,27.08,62.25,1.077271,12.5,663.0,2
+test_21_13.png,28.4117,Low Impact,Structural Scale (Object Footprint),21.37,28.15,50.48,3.794861,22.851562,1348.0,3
+test_21_14.png,47.7456,Moderate Impact,Structural Scale (Object Footprint),32.31,27.4,40.29,9.642029,37.37793,2425.0,6
+test_21_15.png,63.7012,High Impact,Structural Scale (Object Footprint),30.01,30.75,39.25,11.947632,55.957031,5197.0,3
+test_21_16.png,60.1721,High Impact,Structural Scale (Object Footprint),18.59,39.86,41.55,6.991577,68.530273,4525.0,2
+test_2_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_21_1.png,48.6136,Moderate Impact,Structural Scale (Object Footprint),33.52,32.38,34.1,10.185242,44.970703,1801.0,5
+test_2_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_21_2.png,56.2363,High Impact,Extent (Coverage),42.35,26.42,31.23,14.884949,42.456055,2021.0,8
+test_2_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_21_3.png,73.6033,High Impact,Extent (Coverage),47.14,27.18,25.68,21.687317,57.15332,2341.0,14
+test_2_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_21_4.png,67.2619,High Impact,Extent (Coverage),40.12,30.93,28.95,16.864014,59.448242,2485.0,9
+test_2_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_21_5.png,60.5179,High Impact,Extent (Coverage),35.32,31.18,33.51,13.357544,53.90625,2695.0,7
+test_2_16.png,26.4638,Low Impact,Structural Scale (Object Footprint),16.22,21.89,61.89,2.682495,16.552734,1758.0,1
+test_21_6.png,58.124,High Impact,Extent (Coverage),45.3,28.27,26.42,16.45813,46.948242,1546.0,13
+test_21_7.png,79.6404,High Impact,Extent (Coverage),50.23,25.29,24.49,27.008057,57.543945,2492.0,16
+test_21_8.png,80.0597,High Impact,Extent (Coverage),49.96,23.25,26.79,28.179932,53.173828,3015.0,14
+test_21_9.png,30.4936,Moderate Impact,Structural Scale (Object Footprint),17.93,36.09,45.97,3.417969,31.445312,1288.0,2
+test_2_1.png,73.4116,High Impact,Extent (Coverage),54.49,23.93,21.58,25.180054,50.195312,1645.0,18
+test_22_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_22_11.png,28.6753,Low Impact,Structural Scale (Object Footprint),12.49,38.26,49.25,2.238464,31.347656,1307.0,3
+test_22_12.png,67.9001,High Impact,Extent (Coverage),33.83,33.54,32.63,14.355469,65.063477,3218.0,7
+test_22_13.png,52.4065,Moderate Impact,Structural Scale (Object Footprint),33.75,29.63,36.62,11.054993,44.360352,2414.0,7
+test_22_14.png,71.2571,High Impact,Extent (Coverage),42.98,28.0,29.02,19.142151,57.006836,2802.0,9
+test_22_15.png,55.1913,High Impact,Extent (Coverage),41.83,24.42,33.75,14.430237,38.500977,2274.0,7
+test_22_16.png,49.1948,Moderate Impact,Extent (Coverage),37.89,30.66,31.45,11.650085,43.09082,1569.0,7
+test_22_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_22_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_22_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_22_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_22_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_22_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_22_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_22_8.png,1.0227,Low Impact,Structural Scale (Object Footprint),1.43,5.01,93.55,0.009155,0.146484,6.0,1
+test_22_9.png,36.0768,Moderate Impact,Structural Scale (Object Footprint),20.14,28.71,51.15,4.541016,29.589844,2232.0,2
+test_2_2.png,70.4593,High Impact,Extent (Coverage),56.77,23.42,19.81,26.712036,47.143555,1277.0,17
+test_23_10.png,76.3855,High Impact,Concentration (Local Cluster),31.75,35.52,32.73,15.159607,77.514648,4174.0,4
+test_23_11.png,39.6909,Moderate Impact,Structural Scale (Object Footprint),21.87,30.48,47.65,5.4245,34.570312,2344.0,2
+test_23_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_23_13.png,56.3141,High Impact,Structural Scale (Object Footprint),30.81,30.88,38.31,10.842896,49.682617,3051.0,6
+test_23_14.png,37.9666,Moderate Impact,Structural Scale (Object Footprint),21.35,28.79,49.87,5.065918,31.225586,2349.0,3
+test_23_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_23_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_23_1.png,43.7014,Moderate Impact,Structural Scale (Object Footprint),24.27,31.03,44.7,6.628418,38.745117,2501.0,2
+test_23_2.png,53.1722,Moderate Impact,Structural Scale (Object Footprint),30.32,31.59,38.09,10.075378,47.998047,2688.0,5
+test_23_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_23_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_23_5.png,50.8462,Moderate Impact,Extent (Coverage),40.12,23.93,35.95,12.748718,34.765625,2190.0,8
+test_23_6.png,66.7639,High Impact,Extent (Coverage),39.23,30.35,30.42,16.369629,57.885742,2704.0,6
+test_23_7.png,15.2469,Low Impact,Structural Scale (Object Footprint),8.87,30.94,60.19,0.845337,13.476562,552.0,2
+test_23_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_23_9.png,60.0842,High Impact,Extent (Coverage),41.39,25.26,33.35,15.542603,43.359375,2632.0,8
+test_2_3.png,54.4176,Moderate Impact,Extent (Coverage),53.85,21.78,24.37,18.313599,33.862305,1153.0,15
+test_24_10.png,42.7733,Moderate Impact,Structural Scale (Object Footprint),23.62,32.4,43.98,6.314087,39.599609,2319.0,7
+test_24_11.png,33.164,Moderate Impact,Structural Scale (Object Footprint),22.9,34.19,42.91,4.747009,32.397461,1327.0,5
+test_24_12.png,50.6056,Moderate Impact,Structural Scale (Object Footprint),31.61,29.67,38.72,9.999084,42.895508,2516.0,5
+test_24_13.png,15.7222,Low Impact,Structural Scale (Object Footprint),8.96,31.36,59.68,0.880432,14.086914,577.0,1
+test_24_14.png,60.9311,High Impact,Extent (Coverage),37.56,30.29,32.14,14.305115,52.734375,2514.0,5
+test_24_15.png,58.0888,High Impact,Extent (Coverage),42.43,25.29,32.29,15.403748,41.967773,2305.0,8
+test_24_16.png,38.0333,Moderate Impact,Structural Scale (Object Footprint),20.63,37.38,41.98,4.904175,40.625,1671.0,4
+test_24_1.png,12.0131,Low Impact,Structural Scale (Object Footprint),10.02,17.78,72.2,0.752258,6.103516,493.0,1
+test_24_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_24_3.png,40.7223,Moderate Impact,Structural Scale (Object Footprint),16.29,39.7,44.01,4.145813,46.191406,2105.0,2
+test_24_4.png,16.7854,Low Impact,Structural Scale (Object Footprint),9.89,29.42,60.69,1.037598,14.111328,680.0,1
+test_24_5.png,34.0126,Moderate Impact,Structural Scale (Object Footprint),16.02,29.72,54.26,3.405762,28.881836,2232.0,1
+test_24_6.png,42.7723,Moderate Impact,Structural Scale (Object Footprint),16.43,35.12,48.45,4.393005,42.919922,2814.0,3
+test_24_7.png,33.4848,Moderate Impact,Structural Scale (Object Footprint),14.98,32.15,52.87,3.134155,30.761719,2054.0,1
+test_24_8.png,41.7084,Moderate Impact,Structural Scale (Object Footprint),20.22,35.36,44.42,5.271912,42.138672,2249.0,2
+test_24_9.png,56.4611,High Impact,Structural Scale (Object Footprint),30.69,30.8,38.51,10.829163,49.682617,3099.0,3
+test_2_4.png,34.673,Moderate Impact,Concentration (Local Cluster),17.98,42.24,39.78,3.895569,41.845703,1247.0,3
+test_25_10.png,40.1008,Moderate Impact,Structural Scale (Object Footprint),24.66,34.73,40.61,6.17981,39.794922,1738.0,4
+test_25_11.png,36.8167,Moderate Impact,Structural Scale (Object Footprint),33.17,25.28,41.56,7.632446,26.586914,1534.0,8
+test_25_12.png,38.4128,Moderate Impact,Structural Scale (Object Footprint),22.7,28.74,48.56,5.450439,31.542969,2280.0,2
+test_25_13.png,34.0776,Moderate Impact,Structural Scale (Object Footprint),18.96,35.63,45.4,4.039001,34.692383,1569.0,2
+test_25_14.png,46.7222,Moderate Impact,Structural Scale (Object Footprint),32.01,28.07,39.92,9.346008,37.475586,2280.0,4
+test_25_15.png,37.1059,Moderate Impact,Structural Scale (Object Footprint),25.65,30.14,44.2,5.949402,31.958008,1763.0,4
+test_25_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_25_1.png,20.2544,Low Impact,Structural Scale (Object Footprint),12.61,25.02,62.37,1.596069,14.477539,1046.0,1
+test_25_2.png,11.6924,Low Impact,Structural Scale (Object Footprint),9.81,17.76,72.43,0.717163,5.932617,470.0,1
+test_25_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_25_4.png,17.9007,Low Impact,Structural Scale (Object Footprint),21.48,19.76,58.76,2.403259,10.107422,725.0,3
+test_25_5.png,52.2366,Moderate Impact,Structural Scale (Object Footprint),25.88,36.72,37.4,8.448792,54.80957,2501.0,3
+test_25_6.png,35.8752,Moderate Impact,Structural Scale (Object Footprint),12.55,41.23,46.22,2.813721,42.260742,1802.0,2
+test_25_7.png,15.2953,Low Impact,Structural Scale (Object Footprint),15.87,27.49,56.65,1.516724,12.011719,492.0,3
+test_25_8.png,17.1325,Low Impact,Structural Scale (Object Footprint),13.95,31.47,54.58,1.493835,15.405273,573.0,3
+test_25_9.png,46.8753,Moderate Impact,Structural Scale (Object Footprint),32.69,32.17,35.14,9.576416,43.09082,1778.0,4
+test_2_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_26_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_26_11.png,8.8996,Low Impact,Structural Scale (Object Footprint),6.83,23.91,69.26,0.379944,6.079102,249.0,1
+test_26_12.png,52.5217,Moderate Impact,Structural Scale (Object Footprint),24.01,35.3,40.68,7.88269,52.978516,2992.0,4
+test_26_13.png,26.8025,Low Impact,Structural Scale (Object Footprint),13.91,29.14,56.95,2.330017,22.314453,1527.0,1
+test_26_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_26_15.png,29.7921,Low Impact,Structural Scale (Object Footprint),24.76,31.06,44.17,4.611206,26.44043,1135.0,4
+test_26_16.png,50.1104,Moderate Impact,Extent (Coverage),39.83,21.37,38.8,12.47406,30.59082,2478.0,7
+test_26_1.png,25.8324,Low Impact,Structural Scale (Object Footprint),15.08,35.82,49.09,2.435303,26.44043,1054.0,2
+test_26_2.png,20.6761,Low Impact,Structural Scale (Object Footprint),12.58,36.0,51.43,1.625061,21.264648,741.0,2
+test_26_3.png,27.6931,Low Impact,Structural Scale (Object Footprint),18.42,34.19,47.4,3.187561,27.050781,1129.0,2
+test_26_4.png,55.0641,High Impact,Concentration (Local Cluster),16.15,43.93,39.92,5.558777,69.116211,3166.0,2
+test_26_5.png,22.0333,Low Impact,Structural Scale (Object Footprint),16.67,32.23,51.11,2.294922,20.288086,831.0,2
+test_26_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_26_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_26_8.png,43.0223,Moderate Impact,Structural Scale (Object Footprint),22.14,38.0,39.87,5.952454,46.704102,1928.0,3
+test_26_9.png,14.7559,Low Impact,Structural Scale (Object Footprint),12.23,15.81,71.96,1.127625,6.665039,739.0,1
+test_2_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_27_10.png,41.7185,Moderate Impact,Extent (Coverage),38.71,26.95,34.34,10.092163,32.128906,1345.0,9
+test_27_11.png,27.3686,Low Impact,Structural Scale (Object Footprint),22.66,31.16,46.18,3.875732,24.365234,1047.0,4
+test_27_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_27_13.png,82.9496,High Impact,Extent (Coverage),48.22,28.68,23.1,30.415344,67.96875,2406.0,22
+test_27_14.png,54.2466,Moderate Impact,Extent (Coverage),39.35,30.7,29.95,13.340759,47.583008,1730.0,12
+test_27_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_27_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_27_1.png,33.2917,Moderate Impact,Structural Scale (Object Footprint),13.43,36.34,50.22,2.79541,34.570312,1832.0,1
+test_27_2.png,36.5828,Moderate Impact,Structural Scale (Object Footprint),23.5,30.95,45.55,5.37262,32.348633,1820.0,3
+test_27_3.png,6.4321,Low Impact,Structural Scale (Object Footprint),5.69,19.93,74.38,0.228882,3.662109,150.0,1
+test_27_4.png,34.5132,Moderate Impact,Structural Scale (Object Footprint),30.8,31.17,38.03,6.643677,30.737305,1129.0,5
+test_27_5.png,55.0508,High Impact,Structural Scale (Object Footprint),22.03,37.86,40.11,7.579041,59.545898,3196.0,2
+test_27_6.png,23.1795,Low Impact,Structural Scale (Object Footprint),11.05,34.58,54.37,1.600647,22.900391,1041.0,2
+test_27_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_27_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_27_9.png,72.2447,High Impact,Extent (Coverage),47.03,28.9,24.08,21.234131,59.643555,1983.0,14
+test_2_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_28_10.png,59.458,High Impact,Extent (Coverage),47.23,27.06,25.71,17.552185,45.97168,1531.0,15
+test_28_11.png,44.6446,Moderate Impact,Structural Scale (Object Footprint),31.61,33.55,34.83,8.821106,42.797852,1585.0,6
+test_28_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_28_13.png,71.4306,High Impact,Extent (Coverage),53.48,26.25,20.28,23.873901,53.564453,1375.0,25
+test_28_14.png,69.8582,High Impact,Extent (Coverage),57.26,22.67,20.08,27.519226,45.239258,1289.0,22
+test_28_15.png,74.9934,High Impact,Extent (Coverage),52.04,25.35,22.61,24.391174,54.321289,1884.0,18
+test_28_16.png,59.6613,High Impact,Extent (Coverage),50.1,23.93,25.97,18.681335,40.795898,1573.0,13
+test_28_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_28_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_28_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_28_4.png,43.0335,Moderate Impact,Concentration (Local Cluster),22.72,43.8,33.48,6.111145,53.857422,1360.0,4
+test_28_5.png,33.7084,Moderate Impact,Structural Scale (Object Footprint),27.7,32.78,39.52,5.836487,31.567383,1163.0,4
+test_28_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_28_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_28_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_28_9.png,73.164,High Impact,Extent (Coverage),52.65,25.03,22.32,24.075317,52.319336,1748.0,18
+test_2_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_29_10.png,75.9477,High Impact,Extent (Coverage),52.42,27.34,20.24,24.880981,59.326172,1549.0,18
+test_29_11.png,69.9117,High Impact,Extent (Coverage),46.35,28.2,25.45,20.252991,56.323242,2075.0,16
+test_29_12.png,61.544,High Impact,Concentration (Local Cluster),29.49,35.65,34.85,11.34491,62.695312,3015.0,3
+test_29_13.png,61.6788,High Impact,Extent (Coverage),42.63,29.37,28.0,16.435242,51.757812,1954.0,8
+test_29_14.png,75.9684,High Impact,Extent (Coverage),51.53,25.16,23.31,24.465942,54.614258,2055.0,13
+test_29_15.png,38.7511,Moderate Impact,Structural Scale (Object Footprint),24.14,35.02,40.85,5.845642,38.769531,1642.0,4
+test_29_16.png,37.427,Moderate Impact,Structural Scale (Object Footprint),20.26,28.63,51.11,4.73938,30.615234,2398.0,2
+test_29_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_29_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_29_3.png,27.7757,Low Impact,Structural Scale (Object Footprint),23.71,24.09,52.21,4.115295,19.116211,1378.0,2
+test_29_4.png,29.8323,Low Impact,Structural Scale (Object Footprint),26.86,24.6,48.54,5.007935,20.97168,1374.0,4
+test_29_5.png,20.0597,Low Impact,Structural Scale (Object Footprint),16.15,41.32,42.53,2.024841,23.681641,477.0,4
+test_29_6.png,75.7328,High Impact,Extent (Coverage),52.82,28.9,18.29,31.910706,62.524414,1257.0,22
+test_29_7.png,76.9709,High Impact,Extent (Coverage),51.97,30.12,17.91,28.781128,66.235352,1246.0,23
+test_29_8.png,48.0079,Moderate Impact,Extent (Coverage),43.9,27.39,28.71,13.171387,37.573242,1245.0,9
+test_29_9.png,76.7115,High Impact,Extent (Coverage),52.14,29.25,18.61,25.331116,64.111328,1335.0,17
+test_2_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_30_10.png,34.4358,Moderate Impact,Structural Scale (Object Footprint),27.46,30.89,41.65,5.909729,30.395508,1348.0,4
+test_30_11.png,41.0053,Moderate Impact,Structural Scale (Object Footprint),32.8,28.53,38.67,8.406067,33.422852,1648.0,5
+test_30_12.png,45.1374,Moderate Impact,Concentration (Local Cluster),24.08,44.53,31.39,6.793213,57.421875,1316.0,5
+test_30_13.png,41.6533,Moderate Impact,Structural Scale (Object Footprint),25.22,34.18,40.61,6.564331,40.673828,1875.0,3
+test_30_14.png,58.2962,High Impact,Extent (Coverage),47.38,27.1,25.52,17.263794,45.141602,1450.0,11
+test_30_15.png,60.2234,High Impact,Extent (Coverage),52.04,22.06,25.9,19.587708,37.963867,1594.0,13
+test_30_16.png,65.8842,High Impact,Extent (Coverage),51.72,24.81,23.47,21.296692,46.704102,1567.0,13
+test_30_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_30_2.png,9.9954,Low Impact,Structural Scale (Object Footprint),8.57,18.21,73.22,0.535583,5.200195,351.0,1
+test_30_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_30_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_30_5.png,38.0264,Moderate Impact,Structural Scale (Object Footprint),26.31,27.15,46.54,6.253052,29.492188,2053.0,4
+test_30_6.png,19.4257,Low Impact,Structural Scale (Object Footprint),11.02,29.43,59.55,1.338196,16.333008,877.0,1
+test_30_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_30_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_30_9.png,29.7243,Low Impact,Structural Scale (Object Footprint),13.29,37.0,49.71,2.468872,31.420898,1431.0,3
+test_3_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_31_10.png,44.8879,Moderate Impact,Concentration (Local Cluster),26.45,37.44,36.1,7.421875,48.022461,1721.0,4
+test_31_11.png,40.7553,Moderate Impact,Structural Scale (Object Footprint),25.45,32.14,42.41,6.481934,37.426758,1958.0,3
+test_31_12.png,12.1447,Low Impact,Structural Scale (Object Footprint),7.98,27.93,64.09,0.605774,9.692383,397.0,1
+test_31_13.png,56.9652,High Impact,Extent (Coverage),45.46,29.34,25.2,16.183472,47.753906,1351.0,10
+test_31_14.png,37.9212,Moderate Impact,Structural Scale (Object Footprint),29.45,31.82,38.73,6.97937,34.472656,1414.0,7
+test_31_15.png,31.6308,Moderate Impact,Structural Scale (Object Footprint),19.6,35.58,44.82,3.875732,32.15332,1317.0,3
+test_31_16.png,44.0001,Moderate Impact,Structural Scale (Object Footprint),22.45,35.97,41.58,6.173706,45.214844,2194.0,2
+test_3_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_31_1.png,50.0953,Moderate Impact,Extent (Coverage),35.27,30.35,34.38,11.044312,43.432617,1944.0,7
+test_3_12.png,12.8737,Low Impact,Structural Scale (Object Footprint),8.5,27.28,64.22,0.683594,10.03418,448.0,1
+test_31_2.png,50.5558,Moderate Impact,Structural Scale (Object Footprint),28.5,30.32,41.18,9.005737,43.798828,2840.0,4
+test_3_13.png,16.9321,Low Impact,Structural Scale (Object Footprint),9.24,32.35,58.41,0.978088,15.649414,641.0,1
+test_31_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_3_14.png,33.8571,Moderate Impact,Structural Scale (Object Footprint),12.5,40.71,46.79,2.644348,39.379883,1645.0,2
+test_31_4.png,62.049,High Impact,Extent (Coverage),35.57,31.87,32.56,13.795471,56.494141,2675.0,5
+test_3_15.png,38.0567,Moderate Impact,Structural Scale (Object Footprint),13.09,41.79,45.13,3.112793,45.43457,1933.0,2
+test_31_5.png,86.4307,High Impact,Extent (Coverage),46.28,24.8,28.92,27.694702,61.230469,5368.0,9
+test_3_16.png,27.238,Low Impact,Structural Scale (Object Footprint),14.27,35.23,50.5,2.429199,27.416992,1240.0,2
+test_31_6.png,43.5068,Moderate Impact,Structural Scale (Object Footprint),19.32,39.97,40.71,5.253601,49.682617,2056.0,2
+test_31_7.png,16.9134,Low Impact,Structural Scale (Object Footprint),9.24,32.33,58.43,0.976562,15.625,640.0,1
+test_31_8.png,43.9566,Moderate Impact,Structural Scale (Object Footprint),21.07,36.92,42.01,5.789185,46.362305,2235.0,3
+test_31_9.png,22.7795,Low Impact,Structural Scale (Object Footprint),11.46,33.72,54.82,1.631165,21.948242,1022.0,3
+test_3_1.png,10.9684,Low Impact,Structural Scale (Object Footprint),8.5,21.89,69.61,0.582886,6.860352,382.0,1
+test_32_10.png,32.7741,Moderate Impact,Structural Scale (Object Footprint),11.72,41.01,47.27,2.400208,38.40332,1573.0,1
+test_32_11.png,8.6883,Low Impact,Structural Scale (Object Footprint),6.74,23.6,69.65,0.366211,5.859375,240.0,1
+test_32_12.png,30.2388,Moderate Impact,Structural Scale (Object Footprint),27.37,29.73,42.9,5.172729,25.683594,1103.0,5
+test_32_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_32_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_32_15.png,11.2045,Low Impact,Structural Scale (Object Footprint),7.76,26.46,65.78,0.543213,8.47168,356.0,1
+test_32_16.png,39.6517,Moderate Impact,Extent (Coverage),38.82,28.98,32.19,9.620667,32.836914,1068.0,7
+test_32_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_32_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_32_3.png,13.532,Low Impact,Structural Scale (Object Footprint),8.39,29.36,62.25,0.709534,11.352539,465.0,1
+test_32_4.png,30.4013,Moderate Impact,Structural Scale (Object Footprint),11.44,40.05,48.5,2.174377,34.790039,1425.0,1
+test_32_5.png,23.4154,Low Impact,Structural Scale (Object Footprint),15.62,35.29,49.09,2.285767,23.608398,866.0,3
+test_32_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_32_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_32_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_32_9.png,17.4163,Low Impact,Structural Scale (Object Footprint),9.35,32.72,57.93,1.017761,16.28418,667.0,1
+test_3_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_33_10.png,17.8008,Low Impact,Structural Scale (Object Footprint),19.71,23.62,56.67,2.192688,12.011719,667.0,3
+test_33_11.png,63.795,High Impact,Extent (Coverage),48.03,24.19,27.78,19.151306,44.091797,2058.0,10
+test_33_12.png,74.7086,High Impact,Extent (Coverage),53.54,22.58,23.88,28.190613,48.193359,2086.0,14
+test_33_13.png,43.616,Moderate Impact,Structural Scale (Object Footprint),24.55,31.7,43.76,6.690979,39.501953,2387.0,3
+test_33_14.png,65.6413,High Impact,Extent (Coverage),40.24,31.19,28.57,16.508484,58.496094,2305.0,7
+test_33_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_33_16.png,42.2074,Moderate Impact,Structural Scale (Object Footprint),21.46,34.19,44.35,5.661011,41.235352,2296.0,3
+test_33_1.png,33.8439,Moderate Impact,Structural Scale (Object Footprint),18.81,22.24,58.94,3.979492,21.508789,2608.0,1
+test_33_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_33_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_33_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_33_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_33_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_33_7.png,64.1513,High Impact,Extent (Coverage),40.83,31.33,27.84,16.369629,57.421875,2091.0,7
+test_33_8.png,51.8476,Moderate Impact,Extent (Coverage),34.16,33.56,32.28,11.070251,49.707031,1836.0,9
+test_33_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_3_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_34_10.png,81.7161,High Impact,Extent (Coverage),48.95,27.36,23.69,26.93634,63.867188,2457.0,10
+test_34_11.png,65.9489,High Impact,Extent (Coverage),46.63,31.96,21.41,19.219971,60.229492,1306.0,16
+test_34_12.png,50.2386,Moderate Impact,Extent (Coverage),42.39,32.18,25.43,13.308716,46.191406,1070.0,12
+test_34_13.png,40.0979,Moderate Impact,Structural Scale (Object Footprint),22.07,36.4,41.54,5.529785,41.699219,1818.0,2
+test_34_14.png,51.5515,Moderate Impact,Extent (Coverage),36.41,30.88,32.71,11.732483,45.483398,1863.0,6
+test_34_15.png,59.8433,High Impact,Extent (Coverage),42.36,31.91,25.72,15.844727,54.56543,1553.0,8
+test_34_16.png,68.4961,High Impact,Extent (Coverage),58.4,20.27,21.33,26.985168,39.672852,1399.0,17
+test_34_1.png,82.6963,High Impact,Extent (Coverage),48.37,25.4,26.23,25.730896,60.009766,3084.0,15
+test_34_2.png,63.7251,High Impact,Extent (Coverage),48.69,28.48,22.83,19.392395,51.855469,1387.0,14
+test_34_3.png,19.3746,Low Impact,Structural Scale (Object Footprint),15.56,16.27,68.16,1.88446,9.008789,1143.0,3
+test_34_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_34_5.png,53.8858,Moderate Impact,Extent (Coverage),35.15,34.66,30.19,11.837769,53.369141,1734.0,7
+test_34_6.png,57.4599,High Impact,Extent (Coverage),48.62,25.67,25.72,17.459106,42.138672,1431.0,12
+test_34_7.png,12.1908,Low Impact,Structural Scale (Object Footprint),10.29,26.92,62.79,0.784302,9.375,384.0,3
+test_34_8.png,36.5687,Moderate Impact,Structural Scale (Object Footprint),33.61,30.87,35.52,7.681274,32.250977,1106.0,5
+test_34_9.png,56.2338,High Impact,Structural Scale (Object Footprint),26.26,29.51,44.23,9.230042,47.412109,4054.0,3
+test_3_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_35_10.png,44.141,Moderate Impact,Extent (Coverage),40.08,32.12,27.8,11.058044,40.50293,987.0,14
+test_35_11.png,68.7774,High Impact,Extent (Coverage),58.16,23.85,17.99,26.768494,46.875,1003.0,31
+test_35_12.png,54.3567,Moderate Impact,Extent (Coverage),49.5,29.59,20.91,16.816711,45.947266,847.0,19
+test_35_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_35_14.png,48.8421,Moderate Impact,Extent (Coverage),45.18,29.99,24.83,13.792419,41.845703,964.0,18
+test_35_15.png,62.7039,High Impact,Extent (Coverage),57.99,23.7,18.31,22.72644,42.456055,864.0,26
+test_35_16.png,43.9333,Moderate Impact,Extent (Coverage),49.96,23.65,26.39,13.717651,29.6875,881.0,17
+test_35_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_35_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_35_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_35_4.png,54.2061,Moderate Impact,Extent (Coverage),51.32,26.22,22.47,17.385864,40.600586,972.0,17
+test_35_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_35_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_35_7.png,39.5319,Moderate Impact,Concentration (Local Cluster),30.61,41.63,27.76,7.563782,47.021484,789.0,10
+test_35_8.png,69.3523,High Impact,Extent (Coverage),57.68,24.49,17.83,25.720215,48.535156,1002.0,25
+test_35_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_3_5.png,11.9278,Low Impact,Structural Scale (Object Footprint),9.42,20.35,70.24,0.701904,6.933594,460.0,1
+test_36_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_36_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_36_12.png,8.9695,Low Impact,Structural Scale (Object Footprint),6.86,24.01,69.13,0.384521,6.152344,252.0,1
+test_36_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_36_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_36_15.png,33.8081,Moderate Impact,Structural Scale (Object Footprint),27.06,36.29,36.65,5.717468,35.058594,1006.0,7
+test_36_16.png,53.7849,Moderate Impact,Extent (Coverage),57.04,20.91,22.05,19.174194,32.128906,922.0,21
+test_36_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_36_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_36_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_36_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_36_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_36_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_36_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_36_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_36_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_3_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_37_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_37_11.png,10.3275,Low Impact,Structural Scale (Object Footprint),7.38,25.81,66.81,0.476074,7.617188,312.0,1
+test_37_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_37_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_37_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_37_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_37_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_37_1.png,67.766,High Impact,Extent (Coverage),59.03,24.64,16.33,25.411987,47.705078,803.0,31
+test_37_2.png,40.3639,Moderate Impact,Extent (Coverage),38.58,34.87,26.56,9.732056,40.209961,753.0,15
+test_37_3.png,36.9969,Moderate Impact,Structural Scale (Object Footprint),32.56,29.4,38.04,7.528687,31.079102,1298.0,9
+test_37_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_37_5.png,68.224,High Impact,Extent (Coverage),58.63,24.42,16.95,25.413513,47.607422,876.0,36
+test_37_6.png,58.6222,High Impact,Extent (Coverage),55.64,23.96,20.4,20.385742,40.136719,937.0,28
+test_37_7.png,37.845,Moderate Impact,Extent (Coverage),34.78,34.77,30.44,8.227539,37.597656,870.0,9
+test_37_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_37_9.png,36.4507,Moderate Impact,Concentration (Local Cluster),29.48,37.79,32.73,6.715393,39.355469,933.0,9
+test_3_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_38_10.png,25.1734,Low Impact,Structural Scale (Object Footprint),21.24,31.87,46.89,3.341675,22.924805,913.0,4
+test_38_11.png,57.5467,High Impact,Extent (Coverage),53.99,24.54,21.47,19.418335,40.356445,1000.0,22
+test_38_12.png,63.5899,High Impact,Extent (Coverage),58.81,23.21,17.98,23.373413,42.163086,857.0,28
+test_38_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_38_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_38_15.png,51.8066,Moderate Impact,Extent (Coverage),47.07,29.56,23.37,15.240479,43.75,961.0,16
+test_38_16.png,64.1015,High Impact,Extent (Coverage),58.2,22.58,19.22,23.31543,41.357422,995.0,24
+test_38_1.png,31.18,Moderate Impact,Structural Scale (Object Footprint),33.41,27.35,39.24,6.510925,24.365234,981.0,9
+test_38_2.png,44.4829,Moderate Impact,Extent (Coverage),46.13,27.05,26.82,12.825012,34.375,933.0,12
+test_38_3.png,49.6767,Moderate Impact,Extent (Coverage),47.3,28.69,24.01,14.686584,40.722656,932.0,16
+test_38_4.png,65.1755,High Impact,Extent (Coverage),59.2,22.94,17.86,24.113464,42.724609,888.0,28
+test_38_5.png,60.9493,High Impact,Extent (Coverage),55.29,25.81,18.9,21.060181,44.946289,870.0,29
+test_38_6.png,57.7539,High Impact,Extent (Coverage),48.14,29.41,22.44,17.378235,48.535156,1101.0,19
+test_38_7.png,50.8098,Moderate Impact,Extent (Coverage),52.09,25.28,22.64,16.540527,36.694336,867.0,21
+test_38_8.png,42.6915,Moderate Impact,Extent (Coverage),41.94,31.02,27.03,11.190796,37.841797,873.0,14
+test_38_9.png,20.07,Low Impact,Structural Scale (Object Footprint),12.71,40.62,46.67,1.594543,23.291016,575.0,3
+test_3_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_39_10.png,40.4539,Moderate Impact,Concentration (Local Cluster),25.83,44.25,29.92,6.530762,51.147461,960.0,7
+test_39_11.png,24.1706,Low Impact,Concentration (Local Cluster),14.11,45.36,40.53,2.131653,31.323242,629.0,3
+test_39_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_39_13.png,64.7569,High Impact,Extent (Coverage),51.16,24.39,24.45,20.707703,45.117188,1643.0,19
+test_39_14.png,74.1472,High Impact,Extent (Coverage),53.95,23.3,22.75,30.351257,49.365234,1865.0,29
+test_39_15.png,69.0577,High Impact,Extent (Coverage),45.84,28.15,26.01,19.786072,55.541992,2114.0,17
+test_39_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_39_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_39_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_39_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_39_4.png,10.2392,Low Impact,Structural Scale (Object Footprint),7.34,25.7,66.95,0.469971,7.519531,308.0,1
+test_39_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_39_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_39_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_39_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_39_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_3_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_40_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_40_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_40_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_40_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_40_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_40_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_40_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_40_1.png,5.882,Low Impact,Structural Scale (Object Footprint),5.4,18.89,75.72,0.198364,3.173828,130.0,1
+test_40_2.png,65.1935,High Impact,Extent (Coverage),54.01,26.08,19.91,22.006226,48.583984,1104.0,18
+test_40_3.png,53.5199,Moderate Impact,Extent (Coverage),44.63,31.12,24.25,14.929199,47.583008,1104.0,14
+test_40_4.png,3.8281,Low Impact,Structural Scale (Object Footprint),4.08,14.29,81.63,0.097656,1.5625,64.0,1
+test_40_5.png,15.5691,Low Impact,Structural Scale (Object Footprint),8.92,31.23,59.85,0.868225,13.891602,569.0,1
+test_40_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_40_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_40_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_40_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_4_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_41_10.png,33.9906,Moderate Impact,Structural Scale (Object Footprint),25.71,34.04,40.26,5.461121,33.056641,1227.0,5
+test_41_11.png,73.5334,High Impact,Extent (Coverage),54.4,26.87,18.74,26.800537,56.445312,1244.0,21
+test_41_12.png,75.5064,High Impact,Extent (Coverage),52.98,26.22,20.8,32.116699,56.567383,1617.0,24
+test_41_13.png,45.016,Moderate Impact,Extent (Coverage),43.85,25.09,31.06,12.336731,32.275391,1281.0,10
+test_41_14.png,68.6185,High Impact,Extent (Coverage),56.27,23.56,20.17,24.133301,46.191406,1255.0,19
+test_41_15.png,73.7322,High Impact,Extent (Coverage),54.25,27.72,18.03,32.771301,58.398438,1158.0,26
+test_41_16.png,80.2892,High Impact,Extent (Coverage),49.82,26.27,23.91,31.913757,60.253906,2416.0,21
+test_4_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_41_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_4_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_41_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_4_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_41_3.png,44.3813,Moderate Impact,Extent (Coverage),36.9,30.42,32.68,10.23407,38.574219,1379.0,6
+test_4_14.png,31.8518,Moderate Impact,Structural Scale (Object Footprint),12.22,38.82,48.96,2.432251,35.327148,1594.0,1
+test_41_4.png,39.9135,Moderate Impact,Extent (Coverage),36.09,31.36,32.55,9.002686,35.766602,1106.0,7
+test_4_15.png,32.7531,Moderate Impact,Structural Scale (Object Footprint),27.21,29.32,43.46,5.570984,27.441406,1328.0,3
+test_41_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_4_16.png,41.2534,Moderate Impact,Structural Scale (Object Footprint),33.87,28.48,37.65,8.732605,33.569336,1581.0,4
+test_41_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_41_7.png,23.3378,Low Impact,Structural Scale (Object Footprint),18.86,25.37,55.76,2.75116,16.918945,1110.0,2
+test_41_8.png,66.7199,High Impact,Extent (Coverage),50.85,28.6,20.55,21.205139,54.516602,1232.0,17
+test_41_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_4_1.png,10.9812,Low Impact,Structural Scale (Object Footprint),7.6,26.61,65.78,0.521851,8.349609,342.0,1
+test_42_10.png,34.0834,Moderate Impact,Concentration (Local Cluster),31.73,34.35,33.92,6.759644,33.447266,876.0,8
+test_42_11.png,54.8059,Moderate Impact,Extent (Coverage),49.35,28.63,22.03,16.903687,44.824219,955.0,17
+test_42_12.png,66.2048,High Impact,Extent (Coverage),60.34,21.43,18.23,24.967957,40.527344,955.0,29
+test_42_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_42_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_42_15.png,17.7617,Low Impact,Structural Scale (Object Footprint),9.55,33.44,57.01,1.060486,16.967773,672.0,2
+test_42_16.png,23.6553,Low Impact,Structural Scale (Object Footprint),18.45,37.21,44.34,2.728271,25.146484,721.0,4
+test_42_1.png,17.316,Low Impact,Structural Scale (Object Footprint),13.8,30.3,55.9,1.493835,14.990234,614.0,3
+test_42_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_42_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_42_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_42_5.png,30.1228,Moderate Impact,Concentration (Local Cluster),22.7,40.73,36.56,4.273987,35.058594,795.0,5
+test_42_6.png,24.4559,Low Impact,Concentration (Local Cluster),14.64,43.19,42.17,2.238464,30.175781,697.0,3
+test_42_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_42_8.png,44.4272,Moderate Impact,Extent (Coverage),38.35,35.1,26.55,10.647583,44.555664,912.0,13
+test_42_9.png,43.7345,Moderate Impact,Extent (Coverage),44.69,29.15,26.16,12.214661,36.425781,858.0,15
+test_4_2.png,9.6884,Low Impact,Structural Scale (Object Footprint),11.84,23.02,65.14,0.717163,6.37207,261.0,2
+test_43_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_43_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_43_12.png,14.3957,Low Impact,Structural Scale (Object Footprint),9.96,24.75,65.29,0.895691,10.180664,579.0,2
+test_43_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_43_14.png,36.7595,Moderate Impact,Concentration (Local Cluster),35.05,35.29,29.66,8.053589,37.060547,779.0,9
+test_43_15.png,53.4483,Moderate Impact,Extent (Coverage),46.68,27.69,25.63,15.592957,42.285156,1230.0,16
+test_43_16.png,39.9474,Moderate Impact,Extent (Coverage),38.0,31.49,30.52,9.486389,35.9375,974.0,14
+test_43_1.png,27.0527,Low Impact,Structural Scale (Object Footprint),21.25,38.91,39.83,3.593445,30.078125,761.0,4
+test_43_2.png,29.4707,Low Impact,Concentration (Local Cluster),19.94,45.96,34.1,3.672791,38.696289,662.0,4
+test_43_3.png,28.6505,Low Impact,Concentration (Local Cluster),17.84,42.65,39.52,3.193665,34.912109,840.0,3
+test_43_4.png,34.3548,Moderate Impact,Concentration (Local Cluster),17.03,49.75,33.23,3.656006,48.828125,854.0,4
+test_43_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_43_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_43_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_43_8.png,33.8342,Moderate Impact,Structural Scale (Object Footprint),13.52,36.52,49.97,2.857971,35.302734,1873.0,1
+test_43_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_4_3.png,11.8403,Low Impact,Structural Scale (Object Footprint),8.6,24.03,67.37,0.636292,8.129883,417.0,1
+test_44_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_44_11.png,27.8372,Low Impact,Structural Scale (Object Footprint),23.34,36.53,40.13,4.060364,29.052734,818.0,6
+test_44_12.png,66.0621,High Impact,Extent (Coverage),58.3,21.46,20.24,24.07074,40.50293,1172.0,29
+test_44_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_44_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_44_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_44_16.png,51.0462,Moderate Impact,Extent (Coverage),45.79,31.62,22.58,14.610291,46.118164,871.0,16
+test_44_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_44_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_44_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_44_4.png,11.2839,Low Impact,Structural Scale (Object Footprint),12.81,24.69,62.5,0.90332,7.958984,326.0,2
+test_44_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_44_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_44_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_44_8.png,29.3326,Low Impact,Concentration (Local Cluster),17.33,46.81,35.86,3.17688,39.233398,725.0,5
+test_44_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_4_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_45_10.png,52.6851,Moderate Impact,Extent (Coverage),48.27,29.86,21.87,15.895081,44.946289,870.0,19
+test_45_11.png,65.883,High Impact,Extent (Coverage),60.71,22.41,16.87,29.382324,42.1875,810.0,32
+test_45_12.png,72.583,High Impact,Extent (Coverage),55.11,23.31,21.58,31.538391,48.339844,1608.0,32
+test_45_13.png,46.1181,Moderate Impact,Extent (Coverage),44.91,30.35,24.74,12.945557,39.990234,853.0,17
+test_45_14.png,53.0143,Moderate Impact,Extent (Coverage),51.38,27.79,20.83,17.025757,42.089844,799.0,20
+test_45_15.png,64.7867,High Impact,Extent (Coverage),54.87,27.09,18.04,22.218323,50.146484,895.0,26
+test_45_16.png,68.2314,High Impact,Extent (Coverage),58.62,24.38,16.99,31.65741,47.53418,881.0,34
+test_45_1.png,65.8431,High Impact,Extent (Coverage),60.52,21.98,17.5,24.90387,41.357422,870.0,26
+test_45_2.png,71.1758,High Impact,Extent (Coverage),56.2,22.31,21.5,29.611206,45.361328,1534.0,34
+test_45_3.png,73.0498,High Impact,Extent (Coverage),54.76,24.06,21.18,27.13623,50.219727,1569.0,30
+test_45_4.png,74.1949,High Impact,Extent (Coverage),53.91,25.75,20.34,31.401062,54.589844,1492.0,33
+test_45_5.png,70.1463,High Impact,Extent (Coverage),57.02,25.07,17.91,28.326416,50.244141,1034.0,30
+test_45_6.png,69.5141,High Impact,Extent (Coverage),57.54,24.73,17.73,31.158447,49.121094,995.0,37
+test_45_7.png,73.1397,High Impact,Extent (Coverage),54.69,23.35,21.96,31.974792,48.803711,1690.0,36
+test_45_8.png,68.7642,High Impact,Extent (Coverage),58.17,24.29,17.54,27.676392,47.729492,953.0,30
+test_45_9.png,40.0768,Moderate Impact,Extent (Coverage),36.94,34.86,28.2,9.25293,39.916992,837.0,14
+test_4_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_46_10.png,44.3284,Moderate Impact,Extent (Coverage),43.54,29.74,26.71,12.063599,37.670898,919.0,11
+test_46_11.png,19.5703,Low Impact,Structural Scale (Object Footprint),17.75,30.08,52.16,2.171326,16.821289,683.0,4
+test_46_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_46_13.png,36.9379,Moderate Impact,Concentration (Local Cluster),22.86,45.83,31.32,5.276489,48.364258,877.0,6
+test_46_14.png,21.0284,Low Impact,Structural Scale (Object Footprint),11.16,34.62,54.22,1.46637,20.800781,852.0,2
+test_46_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_46_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_46_1.png,69.3332,High Impact,Extent (Coverage),57.69,24.16,18.15,29.881287,47.851562,1038.0,25
+test_46_2.png,71.0174,High Impact,Extent (Coverage),56.32,25.4,18.28,31.578064,51.538086,1104.0,30
+test_46_3.png,50.4068,Moderate Impact,Extent (Coverage),43.89,31.89,24.22,13.827515,45.922852,977.0,14
+test_46_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_46_5.png,74.6215,High Impact,Extent (Coverage),53.6,24.07,22.33,32.562256,51.318359,1819.0,32
+test_46_6.png,69.6179,High Impact,Extent (Coverage),57.46,24.6,17.95,29.234314,48.925781,1023.0,29
+test_46_7.png,50.7916,Moderate Impact,Extent (Coverage),47.82,27.83,24.36,15.179443,40.380859,1003.0,16
+test_46_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_46_9.png,43.3466,Moderate Impact,Extent (Coverage),36.45,33.77,29.78,9.875488,41.821289,1092.0,10
+test_4_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_47_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_47_11.png,49.7712,Moderate Impact,Extent (Coverage),43.61,30.85,25.54,13.565063,43.87207,1059.0,13
+test_47_12.png,66.644,High Impact,Extent (Coverage),56.07,25.04,18.88,23.356628,47.680664,1038.0,22
+test_47_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_47_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_47_15.png,10.4242,Low Impact,Structural Scale (Object Footprint),8.34,29.18,62.48,0.543213,8.691406,278.0,3
+test_47_16.png,37.6037,Moderate Impact,Extent (Coverage),34.47,34.09,31.44,8.102417,36.621094,916.0,7
+test_47_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_47_2.png,43.2334,Moderate Impact,Concentration (Local Cluster),30.6,40.68,28.73,8.267212,50.244141,1011.0,6
+test_47_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_47_4.png,42.104,Moderate Impact,Concentration (Local Cluster),32.15,38.8,29.04,8.460999,46.679688,980.0,9
+test_47_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_47_6.png,38.977,Moderate Impact,Concentration (Local Cluster),32.14,35.71,32.15,7.829285,39.770508,1029.0,7
+test_47_7.png,66.361,High Impact,Extent (Coverage),57.48,23.76,18.76,23.840332,45.043945,1016.0,22
+test_47_8.png,67.9544,High Impact,Extent (Coverage),58.23,23.88,17.89,24.729919,46.362305,969.0,27
+test_47_9.png,14.4638,Low Impact,Structural Scale (Object Footprint),8.64,30.25,61.11,0.78125,12.5,512.0,1
+test_4_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_48_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_48_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_48_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_48_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_48_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_48_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_48_16.png,20.0142,Low Impact,Structural Scale (Object Footprint),10.89,30.78,58.32,1.36261,17.602539,893.0,1
+test_48_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_48_2.png,27.8381,Low Impact,Structural Scale (Object Footprint),20.64,33.06,46.31,3.590393,26.293945,1089.0,3
+test_48_3.png,14.1776,Low Impact,Structural Scale (Object Footprint),10.09,29.23,60.68,0.894165,11.84082,485.0,2
+test_48_4.png,37.4384,Moderate Impact,Concentration (Local Cluster),29.67,36.63,33.7,6.942749,39.18457,1043.0,5
+test_48_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_48_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_48_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_48_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_48_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_4_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_49_10.png,47.8686,Moderate Impact,Concentration (Local Cluster),32.74,33.9,33.36,9.796143,46.362305,1671.0,6
+test_49_11.png,53.4942,Moderate Impact,Extent (Coverage),38.38,32.87,28.75,12.831116,50.244141,1550.0,10
+test_49_12.png,56.4733,High Impact,Extent (Coverage),36.39,35.85,27.76,12.844849,57.836914,1611.0,8
+test_49_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_49_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_49_15.png,72.9243,High Impact,Extent (Coverage),40.04,30.54,29.43,18.247986,63.623047,3018.0,10
+test_49_16.png,88.2336,High Impact,Extent (Coverage),45.33,26.33,28.33,28.025818,66.381836,5480.0,14
+test_49_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_49_2.png,47.8879,Moderate Impact,Extent (Coverage),36.4,32.21,31.39,10.894775,44.067383,1481.0,8
+test_49_3.png,62.7351,High Impact,Extent (Coverage),48.03,25.69,26.28,18.833923,46.044922,1781.0,12
+test_49_4.png,69.0896,High Impact,Extent (Coverage),49.36,25.8,24.84,21.315002,50.927734,1930.0,13
+test_49_5.png,8.9215,Low Impact,Structural Scale (Object Footprint),6.87,24.04,69.09,0.382996,6.12793,249.0,2
+test_49_6.png,61.0734,High Impact,Extent (Coverage),39.04,34.49,26.47,14.901733,60.180664,1713.0,9
+test_49_7.png,69.1385,High Impact,Extent (Coverage),53.74,22.43,23.82,23.223877,44.311523,1778.0,14
+test_49_8.png,67.7372,High Impact,Extent (Coverage),45.17,30.3,24.53,19.12384,58.642578,1809.0,10
+test_49_9.png,35.1949,Moderate Impact,Structural Scale (Object Footprint),12.29,41.01,46.71,2.702332,41.235352,1771.0,1
+test_4_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_50_10.png,25.1815,Low Impact,Structural Scale (Object Footprint),11.34,35.6,53.06,1.785278,25.610352,1170.0,1
+test_50_11.png,25.0237,Low Impact,Structural Scale (Object Footprint),10.72,37.53,51.75,1.676941,26.831055,1099.0,1
+test_50_12.png,39.3168,Moderate Impact,Concentration (Local Cluster),26.61,40.08,33.31,6.539917,45.019531,1124.0,7
+test_50_13.png,67.569,High Impact,Extent (Coverage),53.13,26.68,20.18,22.438049,51.513672,1219.0,16
+test_50_14.png,72.4084,High Impact,Extent (Coverage),55.24,23.17,21.59,28.518677,47.924805,1602.0,24
+test_50_15.png,70.9064,High Impact,Extent (Coverage),52.66,28.57,18.77,23.335266,57.885742,1161.0,20
+test_50_16.png,37.58,Moderate Impact,Concentration (Local Cluster),25.02,44.75,30.23,5.87616,48.046875,846.0,7
+test_50_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_50_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_50_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_50_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_50_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_50_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_50_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_50_8.png,5.6511,Low Impact,Structural Scale (Object Footprint),7.17,25.1,67.73,0.253296,4.052734,96.0,2
+test_50_9.png,34.952,Moderate Impact,Structural Scale (Object Footprint),31.24,29.7,39.05,6.825256,29.663086,1221.0,5
+test_5_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_51_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_51_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_51_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_51_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_51_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_51_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_51_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_5_11.png,5.5293,Low Impact,Structural Scale (Object Footprint),5.39,18.85,75.76,0.186157,2.978516,115.0,2
+test_51_1.png,43.6773,Moderate Impact,Extent (Coverage),38.52,34.22,27.26,10.516357,42.700195,929.0,12
+test_5_12.png,37.399,Moderate Impact,Structural Scale (Object Footprint),35.44,29.06,35.5,8.283997,31.054688,1155.0,6
+test_51_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_5_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_51_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_5_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_51_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_5_15.png,29.2604,Low Impact,Structural Scale (Object Footprint),17.46,35.77,46.76,3.193665,29.907227,1227.0,2
+test_51_5.png,3.1943,Low Impact,Structural Scale (Object Footprint),3.59,12.57,83.84,0.071716,1.147461,47.0,1
+test_5_16.png,38.101,Moderate Impact,Structural Scale (Object Footprint),31.58,31.6,36.82,7.519531,34.399414,1290.0,5
+test_51_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_51_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_51_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_51_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_5_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_52_10.png,32.2419,Moderate Impact,Concentration (Local Cluster),19.39,46.51,34.1,3.907776,42.84668,792.0,4
+test_52_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_52_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_52_13.png,71.5252,High Impact,Extent (Coverage),55.92,26.29,17.78,32.252502,53.735352,1060.0,31
+test_52_14.png,46.1506,Moderate Impact,Extent (Coverage),42.96,30.2,26.85,12.390137,39.819336,1006.0,14
+test_52_15.png,3.5213,Low Impact,Structural Scale (Object Footprint),5.69,19.9,74.42,0.125122,2.001953,45.0,2
+test_52_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_52_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_52_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_52_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_52_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_52_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_52_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_52_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_52_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_52_9.png,52.3763,Moderate Impact,Extent (Coverage),48.07,29.74,22.19,15.736389,44.506836,885.0,16
+test_5_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_53_10.png,28.5876,Low Impact,Concentration (Local Cluster),14.49,45.55,39.95,2.589417,37.207031,855.0,2
+test_53_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_53_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_53_13.png,23.9034,Low Impact,Structural Scale (Object Footprint),10.62,36.68,52.7,1.586914,25.048828,1040.0,1
+test_53_14.png,36.9447,Moderate Impact,Concentration (Local Cluster),28.83,35.71,35.46,6.655884,37.695312,1125.0,6
+test_53_15.png,46.3422,Moderate Impact,Concentration (Local Cluster),23.07,43.72,33.21,6.68335,57.885742,1552.0,4
+test_53_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_53_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_53_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_53_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_53_4.png,3.1547,Low Impact,Structural Scale (Object Footprint),3.56,12.46,83.98,0.07019,1.123047,46.0,1
+test_53_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_53_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_53_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_53_8.png,6.2149,Low Impact,Structural Scale (Object Footprint),5.58,19.52,74.9,0.216675,3.466797,142.0,1
+test_53_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_5_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_54_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_54_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_54_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_54_13.png,36.749,Moderate Impact,Structural Scale (Object Footprint),18.77,38.13,43.1,4.310608,40.039062,1644.0,3
+test_54_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_54_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_54_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_54_1.png,58.2971,High Impact,Structural Scale (Object Footprint),26.48,32.69,40.83,9.649658,54.443359,3713.0,2
+test_54_2.png,60.2483,High Impact,Structural Scale (Object Footprint),30.05,30.61,39.34,11.315918,52.685547,3682.0,3
+test_54_3.png,26.05,Low Impact,Structural Scale (Object Footprint),12.42,33.0,54.58,2.02179,24.560547,1325.0,1
+test_54_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_54_5.png,39.3011,Moderate Impact,Structural Scale (Object Footprint),23.15,29.37,47.48,5.685425,32.983398,2282.0,3
+test_54_6.png,61.9321,High Impact,Concentration (Local Cluster),28.26,37.17,34.57,10.939026,65.771484,3004.0,4
+test_54_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_54_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_54_9.png,32.3045,Moderate Impact,Structural Scale (Object Footprint),17.57,24.12,58.31,3.547668,22.265625,2325.0,1
+test_5_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_55_10.png,63.7613,High Impact,Extent (Coverage),53.56,26.6,19.84,21.342468,48.461914,1049.0,20
+test_55_11.png,38.3734,Moderate Impact,Structural Scale (Object Footprint),21.81,38.1,40.09,5.230713,41.772461,1551.0,5
+test_55_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_55_13.png,62.0874,High Impact,Extent (Coverage),48.71,31.15,20.14,18.902588,55.249023,1025.0,19
+test_55_14.png,69.787,High Impact,Extent (Coverage),57.32,23.3,19.38,32.077026,46.459961,1199.0,29
+test_55_15.png,73.3775,High Impact,Extent (Coverage),54.51,25.33,20.16,26.609802,53.100586,1434.0,31
+test_55_16.png,72.3049,High Impact,Extent (Coverage),48.55,24.89,26.56,21.940613,51.416016,2417.0,16
+test_55_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_55_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_55_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_55_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_55_5.png,53.0976,Moderate Impact,Extent (Coverage),39.75,36.1,24.15,13.191223,54.760742,1078.0,13
+test_55_6.png,44.8373,Moderate Impact,Concentration (Local Cluster),19.02,43.43,37.54,5.331421,55.639648,1857.0,4
+test_55_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_55_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_55_9.png,70.3623,High Impact,Extent (Coverage),56.85,25.02,18.13,31.790161,50.292969,1067.0,27
+test_5_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_56_10.png,23.3096,Low Impact,Structural Scale (Object Footprint),15.15,34.39,50.47,2.206421,22.900391,907.0,2
+test_56_11.png,37.7154,Moderate Impact,Structural Scale (Object Footprint),25.51,27.64,46.85,6.013489,29.785156,2046.0,4
+test_56_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_56_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_56_14.png,31.448,Moderate Impact,Structural Scale (Object Footprint),11.57,40.49,47.95,2.27356,36.376953,1490.0,1
+test_56_15.png,1.1927,Low Impact,Structural Scale (Object Footprint),1.64,5.73,92.63,0.012207,0.195312,8.0,1
+test_56_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_56_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_56_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_56_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_56_4.png,22.3307,Low Impact,Structural Scale (Object Footprint),10.93,33.75,55.32,1.525879,21.533203,1000.0,1
+test_56_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_56_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_56_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_56_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_56_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_5_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_57_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_57_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_57_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_57_13.png,13.7378,Low Impact,Structural Scale (Object Footprint),17.34,37.07,45.58,1.489258,14.550781,257.0,5
+test_57_14.png,7.9488,Low Impact,Structural Scale (Object Footprint),7.25,25.37,67.38,0.360107,5.761719,188.0,2
+test_57_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_57_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_57_1.png,17.3643,Low Impact,Structural Scale (Object Footprint),11.43,40.01,48.56,1.24054,19.848633,466.0,2
+test_57_2.png,47.2813,Moderate Impact,Extent (Coverage),42.83,32.26,24.91,12.657166,43.579102,909.0,14
+test_57_3.png,47.487,Moderate Impact,Extent (Coverage),44.85,31.06,24.1,13.310242,42.138672,858.0,13
+test_57_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_57_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_57_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_57_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_57_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_57_9.png,5.5686,Low Impact,Structural Scale (Object Footprint),5.22,18.26,76.52,0.18158,2.905273,119.0,1
+test_5_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_58_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_58_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_58_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_58_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_58_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_58_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_58_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_58_1.png,14.9905,Low Impact,Structural Scale (Object Footprint),8.78,30.72,60.5,0.822449,13.15918,539.0,1
+test_58_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_58_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_58_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_58_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_58_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_58_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_58_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_58_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_5_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_59_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_59_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_59_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_59_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_59_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_59_15.png,5.4063,Low Impact,Structural Scale (Object Footprint),10.39,23.39,66.22,0.350952,3.613281,84.0,3
+test_59_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_59_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_59_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_59_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_59_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_59_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_59_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_59_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_59_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_59_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_5_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_60_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_60_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_60_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_60_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_60_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_60_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_60_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_60_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_60_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_60_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_60_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_60_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_60_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_60_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_60_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_60_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_6_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_61_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_61_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_61_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_61_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_61_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_61_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_61_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_6_11.png,13.6646,Low Impact,Structural Scale (Object Footprint),9.24,25.76,65.0,0.788879,10.058594,517.0,1
+test_61_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_6_12.png,9.0161,Low Impact,Structural Scale (Object Footprint),6.88,24.07,69.05,0.387573,6.201172,254.0,1
+test_61_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_6_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_61_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_6_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_61_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_6_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_61_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_6_16.png,14.8545,Low Impact,Structural Scale (Object Footprint),8.74,30.6,60.65,0.811768,12.988281,532.0,1
+test_61_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_61_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_61_8.png,5.0993,Low Impact,Structural Scale (Object Footprint),8.86,16.09,75.06,0.282288,2.34375,96.0,2
+test_61_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_6_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_62_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_62_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_62_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_62_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_62_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_62_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_62_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_62_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_62_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_62_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_62_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_62_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_62_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_62_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_62_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_62_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_6_2.png,13.5921,Low Impact,Structural Scale (Object Footprint),8.41,29.42,62.17,0.714111,11.425781,468.0,1
+test_63_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_63_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_63_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_63_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_63_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_63_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_63_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_63_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_63_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_63_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_63_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_63_5.png,6.6571,Low Impact,Structural Scale (Object Footprint),9.61,22.98,67.42,0.39978,4.370117,132.0,2
+test_63_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_63_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_63_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_63_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_6_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_64_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_64_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_64_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_64_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_64_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_64_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_64_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_64_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_64_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_64_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_64_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_64_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_64_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_64_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_64_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_64_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_6_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_65_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_65_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_65_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_65_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_65_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_65_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_65_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_65_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_65_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_65_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_65_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_65_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_65_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_65_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_65_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_65_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_6_5.png,10.084,Low Impact,Structural Scale (Object Footprint),7.29,25.51,67.21,0.45929,7.348633,301.0,1
+test_66_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_66_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_66_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_66_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_66_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_66_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_66_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_66_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_66_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_66_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_66_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_66_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_66_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_66_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_66_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_66_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_6_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_67_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_67_11.png,41.9027,Moderate Impact,Concentration (Local Cluster),36.66,37.73,25.61,9.60083,45.166016,755.0,12
+test_67_12.png,57.9761,High Impact,Extent (Coverage),57.56,22.64,19.8,20.855713,37.5,864.0,27
+test_67_13.png,17.3003,Low Impact,Structural Scale (Object Footprint),13.28,30.23,56.49,1.435852,14.941406,626.0,3
+test_67_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_67_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_67_16.png,8.0654,Low Impact,Structural Scale (Object Footprint),6.48,22.67,70.85,0.326538,5.224609,214.0,1
+test_67_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_67_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_67_3.png,35.1174,Moderate Impact,Concentration (Local Cluster),23.94,44.5,31.56,5.253601,44.65332,805.0,7
+test_67_4.png,70.6176,High Impact,Extent (Coverage),56.64,27.2,16.16,26.121521,54.882812,853.0,28
+test_67_5.png,19.8913,Low Impact,Structural Scale (Object Footprint),9.86,34.5,55.65,1.225281,19.604492,803.0,1
+test_67_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_67_7.png,32.7204,Moderate Impact,Concentration (Local Cluster),24.5,42.67,32.82,5.010986,39.892578,756.0,8
+test_67_8.png,42.7309,Moderate Impact,Concentration (Local Cluster),35.24,39.11,25.65,9.411621,47.753906,787.0,13
+test_67_9.png,11.4572,Low Impact,Structural Scale (Object Footprint),13.47,17.75,68.78,0.964355,5.810547,407.0,2
+test_6_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_68_10.png,53.5296,Moderate Impact,Extent (Coverage),43.72,26.02,30.26,14.628601,39.794922,1719.0,15
+test_68_11.png,7.0126,Low Impact,Structural Scale (Object Footprint),5.99,20.96,73.05,0.262451,4.199219,172.0,1
+test_68_12.png,13.3714,Low Impact,Structural Scale (Object Footprint),8.34,29.2,62.45,0.697327,11.157227,457.0,1
+test_68_13.png,48.0169,Moderate Impact,Extent (Coverage),42.72,33.35,23.93,12.82196,45.751953,865.0,15
+test_68_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_68_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_68_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_68_1.png,57.406,High Impact,Extent (Coverage),55.13,25.16,19.71,19.781494,41.259766,839.0,22
+test_68_2.png,25.7376,Low Impact,Structural Scale (Object Footprint),16.71,39.51,43.78,2.688599,29.052734,832.0,4
+test_68_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_68_4.png,12.3272,Low Impact,Structural Scale (Object Footprint),9.21,22.46,68.33,0.709534,7.910156,465.0,1
+test_68_5.png,68.5546,High Impact,Extent (Coverage),58.35,24.82,16.84,29.006958,48.608398,873.0,33
+test_68_6.png,62.5683,High Impact,Extent (Coverage),50.3,24.4,25.29,19.671631,43.62793,1641.0,18
+test_68_7.png,43.6075,Moderate Impact,Structural Scale (Object Footprint),30.98,31.59,37.43,8.444214,39.355469,1746.0,7
+test_68_8.png,10.1289,Low Impact,Structural Scale (Object Footprint),9.86,12.15,77.99,0.624084,3.515625,409.0,1
+test_68_9.png,68.0956,High Impact,Extent (Coverage),58.74,23.99,17.27,33.31604,46.679688,906.0,38
+test_6_8.png,11.5153,Low Impact,Structural Scale (Object Footprint),7.78,27.23,64.99,0.559998,8.959961,367.0,1
+test_69_10.png,69.1432,High Impact,Extent (Coverage),56.39,24.49,19.12,24.368286,48.388672,1145.0,31
+test_69_11.png,47.3002,Moderate Impact,Extent (Coverage),48.35,28.54,23.11,14.292908,38.574219,783.0,17
+test_69_12.png,20.0534,Low Impact,Structural Scale (Object Footprint),12.5,43.42,44.08,1.567078,24.87793,512.0,3
+test_69_13.png,68.4638,High Impact,Extent (Coverage),58.43,25.0,16.58,29.464722,48.901367,844.0,35
+test_69_14.png,66.8274,High Impact,Extent (Coverage),59.86,23.64,16.5,25.517273,45.141602,797.0,33
+test_69_15.png,66.7126,High Impact,Extent (Coverage),59.96,22.5,17.54,29.6875,42.895508,897.0,36
+test_69_16.png,56.6466,High Impact,Extent (Coverage),50.28,29.9,19.82,17.802429,48.388672,826.0,21
+test_69_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_69_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_69_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_69_4.png,51.6276,Moderate Impact,Extent (Coverage),41.28,36.05,22.67,13.319397,53.173828,898.0,15
+test_69_5.png,32.3067,Moderate Impact,Concentration (Local Cluster),19.51,46.76,33.73,3.939819,43.164062,778.0,6
+test_69_6.png,19.4958,Low Impact,Structural Scale (Object Footprint),13.83,38.09,48.09,1.68457,21.21582,576.0,4
+test_69_7.png,3.8224,Low Impact,Structural Scale (Object Footprint),4.28,12.07,83.65,0.102234,1.318359,67.0,1
+test_69_8.png,56.14,High Impact,Extent (Coverage),49.55,29.07,21.38,17.385864,46.630859,944.0,19
+test_69_9.png,67.3014,High Impact,Extent (Coverage),59.43,23.89,16.67,27.645874,45.947266,825.0,31
+test_6_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_70_10.png,38.3487,Moderate Impact,Extent (Coverage),40.45,28.14,31.41,9.693909,30.834961,951.0,11
+test_70_11.png,57.1727,High Impact,Extent (Coverage),50.53,27.93,21.54,18.054199,45.629883,994.0,19
+test_70_12.png,57.5806,High Impact,Extent (Coverage),54.97,25.24,19.79,19.781494,41.52832,851.0,26
+test_70_13.png,98.6841,High Impact,Extent (Coverage),39.94,34.72,25.33,24.636841,97.900391,16146.0,1
+test_70_14.png,34.4554,Moderate Impact,Concentration (Local Cluster),31.69,35.51,32.8,6.82373,34.960938,837.0,9
+test_70_15.png,44.8932,Moderate Impact,Extent (Coverage),50.47,24.13,25.4,14.160156,30.957031,852.0,15
+test_70_16.png,45.022,Moderate Impact,Extent (Coverage),48.08,26.1,25.83,13.528442,33.569336,886.0,18
+test_70_1.png,56.9806,High Impact,Extent (Coverage),51.75,27.95,20.3,18.42804,45.507812,877.0,22
+test_70_2.png,36.0891,Moderate Impact,Concentration (Local Cluster),32.6,35.49,31.91,7.35321,36.59668,869.0,10
+test_70_3.png,58.6779,High Impact,Extent (Coverage),48.01,30.61,21.38,17.608643,51.318359,1031.0,19
+test_70_4.png,67.793,High Impact,Extent (Coverage),59.0,23.33,17.67,26.333618,45.19043,940.0,25
+test_70_5.png,67.7885,High Impact,Extent (Coverage),59.01,24.11,16.88,26.576233,46.704102,858.0,30
+test_70_6.png,69.1602,High Impact,Extent (Coverage),57.84,25.69,16.48,30.726624,50.756836,851.0,36
+test_70_7.png,67.695,High Impact,Extent (Coverage),59.09,23.79,17.12,27.848816,46.020508,880.0,36
+test_70_8.png,62.6478,High Impact,Extent (Coverage),54.31,26.77,18.91,21.266174,47.924805,920.0,25
+test_70_9.png,20.4316,Low Impact,Structural Scale (Object Footprint),15.73,31.53,52.74,2.008057,18.408203,761.0,2
+test_7_10.png,68.5868,High Impact,Extent (Coverage),58.32,21.04,20.64,27.217102,41.235352,1313.0,21
+test_71_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_71_11.png,22.1973,Low Impact,Structural Scale (Object Footprint),21.04,36.72,42.23,2.919006,23.291016,576.0,5
+test_71_12.png,32.3946,Moderate Impact,Structural Scale (Object Footprint),25.89,29.46,44.65,5.241394,27.270508,1371.0,5
+test_71_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_71_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_71_15.png,15.1172,Low Impact,Structural Scale (Object Footprint),12.6,29.39,58.01,1.190186,12.695312,504.0,3
+test_71_16.png,100.0,High Impact,Extent (Coverage),40.0,35.0,25.0,68.493652,100.0,44344.0,2
+test_7_11.png,39.118,Moderate Impact,Concentration (Local Cluster),28.22,37.2,34.58,6.900024,41.577148,1199.0,4
+test_71_1.png,44.5208,Moderate Impact,Concentration (Local Cluster),27.39,39.13,33.48,7.620239,49.780273,1456.0,5
+test_7_12.png,38.4741,Moderate Impact,Extent (Coverage),41.07,26.47,32.46,9.875488,29.101562,1022.0,12
+test_71_2.png,45.3506,Moderate Impact,Extent (Coverage),35.96,35.05,28.99,10.192871,45.410156,1133.0,8
+test_7_13.png,39.2773,Moderate Impact,Concentration (Local Cluster),27.95,40.29,31.76,6.860352,45.214844,1020.0,7
+test_71_3.png,31.9664,Moderate Impact,Concentration (Local Cluster),15.12,46.57,38.31,3.02124,42.529297,983.0,4
+test_7_14.png,48.6647,Moderate Impact,Extent (Coverage),43.2,28.99,27.81,13.140869,40.307617,1200.0,11
+test_71_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_7_15.png,16.0111,Low Impact,Structural Scale (Object Footprint),9.12,31.22,59.66,0.912476,14.282227,598.0,1
+test_71_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_7_16.png,51.1181,Moderate Impact,Extent (Coverage),51.19,26.46,22.34,16.355896,38.647461,855.0,19
+test_71_6.png,59.1736,High Impact,Structural Scale (Object Footprint),20.34,37.42,42.25,7.521057,63.256836,4929.0,1
+test_71_7.png,52.4451,Moderate Impact,Structural Scale (Object Footprint),19.57,32.77,47.67,6.413269,49.09668,4203.0,1
+test_71_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_71_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_7_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_72_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_72_11.png,28.0737,Low Impact,Structural Scale (Object Footprint),16.75,38.59,44.66,2.938843,30.957031,1030.0,5
+test_72_12.png,47.6742,Moderate Impact,Concentration (Local Cluster),35.74,37.84,26.42,10.649109,51.538086,1040.0,13
+test_72_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_72_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_72_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_72_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_72_1.png,67.0967,High Impact,Extent (Coverage),59.27,24.35,16.38,24.853516,46.679688,792.0,32
+test_72_2.png,45.2638,Moderate Impact,Extent (Coverage),45.34,31.38,23.28,12.826538,40.576172,728.0,16
+test_72_3.png,58.6664,High Impact,Extent (Coverage),57.99,22.84,19.17,21.263123,38.28125,829.0,25
+test_72_4.png,66.3509,High Impact,Extent (Coverage),60.29,21.64,18.08,25.511169,41.015625,943.0,30
+test_72_5.png,44.7497,Moderate Impact,Extent (Coverage),40.58,34.77,24.64,11.351013,44.458008,797.0,14
+test_72_6.png,32.3465,Moderate Impact,Concentration (Local Cluster),17.09,48.71,34.2,3.45459,45.019531,802.0,5
+test_72_7.png,48.533,Moderate Impact,Extent (Coverage),39.76,34.97,25.27,12.060547,48.486328,986.0,16
+test_72_8.png,67.1739,High Impact,Extent (Coverage),57.76,24.22,18.02,24.250793,46.484375,960.0,28
+test_72_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_7_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_73_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_73_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_73_12.png,11.0119,Low Impact,Structural Scale (Object Footprint),7.69,26.23,66.08,0.52948,8.251953,347.0,1
+test_73_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_73_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_73_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_73_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_73_1.png,70.5835,High Impact,Extent (Coverage),56.67,24.05,19.27,30.735779,48.510742,1213.0,33
+test_73_2.png,29.5771,Low Impact,Concentration (Local Cluster),22.46,41.23,36.31,4.151917,34.838867,756.0,6
+test_73_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_73_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_73_5.png,68.9167,High Impact,Extent (Coverage),58.04,24.6,17.36,25.189209,48.4375,938.0,26
+test_73_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_73_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_73_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_73_9.png,31.6031,Moderate Impact,Concentration (Local Cluster),23.65,42.45,33.9,4.672241,38.330078,752.0,5
+test_7_3.png,47.0805,Moderate Impact,Extent (Coverage),44.51,27.99,27.51,13.096619,37.646484,1099.0,12
+test_74_10.png,47.6723,Moderate Impact,Extent (Coverage),46.74,25.78,27.48,13.926697,35.107422,1125.0,14
+test_74_11.png,43.5001,Moderate Impact,Extent (Coverage),40.79,32.51,26.7,11.090088,40.405273,884.0,12
+test_74_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_74_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_74_14.png,26.6141,Low Impact,Structural Scale (Object Footprint),21.43,37.5,41.07,3.564453,28.515625,783.0,8
+test_74_15.png,43.7893,Moderate Impact,Concentration (Local Cluster),36.08,38.48,25.44,9.875488,48.144531,813.0,10
+test_74_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_74_1.png,39.009,Moderate Impact,Concentration (Local Cluster),31.48,38.88,29.64,7.675171,43.334961,876.0,9
+test_74_2.png,69.6582,High Impact,Extent (Coverage),57.42,21.9,20.68,33.13446,43.579102,1360.0,32
+test_74_3.png,66.9457,High Impact,Extent (Coverage),59.75,22.91,17.34,28.463745,43.823242,883.0,35
+test_74_4.png,38.1915,Moderate Impact,Extent (Coverage),36.89,35.66,27.44,8.805847,38.916016,720.0,10
+test_74_5.png,15.6849,Low Impact,Structural Scale (Object Footprint),15.1,28.22,56.68,1.480103,12.646484,518.0,2
+test_74_6.png,34.7781,Moderate Impact,Structural Scale (Object Footprint),24.65,27.99,47.36,5.358887,27.807617,1778.0,6
+test_74_7.png,55.5444,High Impact,Extent (Coverage),52.17,26.8,21.03,18.112183,42.529297,894.0,17
+test_74_8.png,15.7063,Low Impact,Structural Scale (Object Footprint),10.32,33.51,56.17,1.013184,15.039062,510.0,3
+test_74_9.png,27.5918,Low Impact,Structural Scale (Object Footprint),24.67,34.84,40.49,4.25415,27.46582,818.0,6
+test_7_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_75_10.png,40.3594,Moderate Impact,Extent (Coverage),42.59,30.89,26.52,10.742188,35.620117,751.0,17
+test_75_11.png,59.0011,High Impact,Extent (Coverage),50.73,29.39,19.88,18.707275,49.536133,902.0,25
+test_75_12.png,43.3411,Moderate Impact,Extent (Coverage),35.19,31.88,32.93,9.532166,39.477539,1335.0,12
+test_75_13.png,23.4168,Low Impact,Structural Scale (Object Footprint),17.34,38.72,43.95,2.537537,25.90332,694.0,4
+test_75_14.png,63.5525,High Impact,Extent (Coverage),62.85,19.87,17.28,24.964905,36.083984,790.0,34
+test_75_15.png,67.2691,High Impact,Extent (Coverage),59.46,23.97,16.57,29.240417,46.069336,814.0,37
+test_75_16.png,59.6261,High Impact,Extent (Coverage),54.92,25.59,19.49,20.465088,43.603516,885.0,30
+test_75_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_75_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_75_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_75_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_75_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_75_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_75_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_75_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_75_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_7_5.png,54.3461,Moderate Impact,Extent (Coverage),42.14,32.36,25.5,14.312744,50.244141,1259.0,11
+test_76_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_76_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_76_12.png,59.884,High Impact,Structural Scale (Object Footprint),19.23,39.03,41.75,7.196045,66.772461,4716.0,1
+test_76_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_76_14.png,21.7463,Low Impact,Structural Scale (Object Footprint),10.19,35.68,54.13,1.385498,22.167969,908.0,1
+test_76_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_76_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_76_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_76_2.png,7.2693,Low Impact,Structural Scale (Object Footprint),6.11,21.39,72.49,0.27771,4.443359,182.0,1
+test_76_3.png,4.7073,Low Impact,Structural Scale (Object Footprint),8.61,14.88,76.51,0.253296,2.001953,85.0,2
+test_76_4.png,36.636,Moderate Impact,Extent (Coverage),43.37,30.02,26.61,9.93042,31.420898,623.0,15
+test_76_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_76_6.png,6.3781,Low Impact,Structural Scale (Object Footprint),5.67,19.83,74.51,0.22583,3.613281,148.0,1
+test_76_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_76_8.png,15.1798,Low Impact,Structural Scale (Object Footprint),14.93,35.58,49.5,1.416016,15.429688,370.0,4
+test_76_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_7_6.png,43.8579,Moderate Impact,Concentration (Local Cluster),30.15,38.6,31.25,8.265686,48.364258,1231.0,8
+test_77_10.png,85.3076,High Impact,Concentration (Local Cluster),32.91,37.78,29.31,17.547607,92.089844,11500.0,1
+test_77_11.png,58.8548,High Impact,Concentration (Local Cluster),21.71,40.12,38.17,7.98645,67.456055,3308.0,3
+test_77_12.png,17.5768,Low Impact,Structural Scale (Object Footprint),11.88,23.14,64.98,1.304626,11.621094,855.0,1
+test_77_13.png,92.1216,High Impact,Extent (Coverage),43.42,29.44,27.14,28.727722,77.490234,4488.0,8
+test_77_14.png,83.7817,High Impact,Extent (Coverage),47.74,22.42,29.84,29.626465,53.662109,4891.0,11
+test_77_15.png,100.0,High Impact,Extent (Coverage),40.0,35.0,25.0,35.380554,100.0,12395.0,4
+test_77_16.png,100.0,High Impact,Extent (Coverage),40.0,35.0,25.0,26.066589,100.0,17083.0,1
+test_77_1.png,97.71,High Impact,Extent (Coverage),40.94,33.48,25.59,25.419617,93.457031,9479.0,5
+test_77_2.png,8.5224,Low Impact,Structural Scale (Object Footprint),6.67,23.36,69.96,0.35553,5.688477,233.0,1
+test_77_3.png,48.9168,Moderate Impact,Structural Scale (Object Footprint),30.17,30.43,39.41,9.222412,42.529297,2435.0,3
+test_77_4.png,13.4748,Low Impact,Structural Scale (Object Footprint),8.39,29.23,62.38,0.706482,11.254883,463.0,1
+test_77_5.png,93.053,High Impact,Extent (Coverage),42.99,30.15,26.87,34.771729,80.151367,20471.0,4
+test_77_6.png,14.3657,Low Impact,Structural Scale (Object Footprint),10.2,23.2,66.61,0.915527,9.521484,600.0,1
+test_77_7.png,39.9414,Moderate Impact,Structural Scale (Object Footprint),19.12,35.39,45.5,4.772949,40.380859,2164.0,3
+test_77_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_77_9.png,78.5522,High Impact,Extent (Coverage),35.45,32.72,31.83,17.405701,73.4375,7523.0,3
+test_7_7.png,48.7244,Moderate Impact,Extent (Coverage),44.9,29.45,25.65,13.673401,40.991211,1024.0,12
+test_78_10.png,59.9144,High Impact,Concentration (Local Cluster),22.33,41.74,35.93,8.360291,71.459961,3037.0,3
+test_78_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_78_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_78_13.png,76.6565,High Impact,Extent (Coverage),38.01,29.37,32.61,18.212891,64.331055,4293.0,5
+test_78_14.png,45.7382,Moderate Impact,Structural Scale (Object Footprint),24.7,34.67,40.63,7.060242,45.3125,2263.0,4
+test_78_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_78_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_78_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_78_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_78_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_78_4.png,18.5519,Low Impact,Structural Scale (Object Footprint),12.59,41.13,46.27,1.460266,21.801758,483.0,2
+test_78_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_78_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_78_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_78_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_78_9.png,49.4116,Moderate Impact,Structural Scale (Object Footprint),27.6,34.38,38.02,8.52356,48.535156,2313.0,4
+test_7_8.png,60.5862,High Impact,Extent (Coverage),52.45,26.16,21.38,19.862366,45.288086,1100.0,19
+test_79_10.png,32.4257,Moderate Impact,Structural Scale (Object Footprint),26.36,27.25,46.39,5.342102,25.244141,1483.0,3
+test_79_11.png,21.2885,Low Impact,Structural Scale (Object Footprint),18.19,28.38,53.43,2.420044,17.260742,848.0,2
+test_79_12.png,37.4565,Moderate Impact,Concentration (Local Cluster),21.57,45.95,32.48,5.050659,49.169922,970.0,5
+test_79_13.png,45.8736,Moderate Impact,Structural Scale (Object Footprint),14.72,40.5,44.78,4.220581,53.076172,2766.0,1
+test_79_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_79_15.png,39.3654,Moderate Impact,Structural Scale (Object Footprint),12.73,42.33,44.94,3.132629,47.607422,2051.0,2
+test_79_16.png,43.3279,Moderate Impact,Structural Scale (Object Footprint),31.06,31.79,37.15,8.410645,39.355469,1698.0,6
+test_79_1.png,22.1384,Low Impact,Structural Scale (Object Footprint),13.16,25.9,60.94,1.820374,16.381836,1193.0,1
+test_79_2.png,23.8878,Low Impact,Structural Scale (Object Footprint),20.63,28.33,51.03,3.08075,19.335938,974.0,3
+test_79_3.png,42.3187,Moderate Impact,Structural Scale (Object Footprint),20.03,35.03,44.94,5.297852,42.358398,2370.0,2
+test_79_4.png,30.2589,Moderate Impact,Structural Scale (Object Footprint),19.89,34.76,45.35,3.761292,30.053711,1234.0,2
+test_79_5.png,9.883,Low Impact,Structural Scale (Object Footprint),7.21,25.25,67.54,0.445557,7.128906,292.0,1
+test_79_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_79_7.png,7.0385,Low Impact,Structural Scale (Object Footprint),6.0,21.0,73.0,0.263977,4.223633,173.0,1
+test_79_8.png,16.538,Low Impact,Structural Scale (Object Footprint),9.15,32.03,58.81,0.946045,15.136719,620.0,1
+test_79_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_7_9.png,68.9494,High Impact,Extent (Coverage),53.93,25.95,20.12,23.240662,51.123047,1261.0,18
+test_80_10.png,86.5369,High Impact,Extent (Coverage),43.53,27.58,28.89,23.544312,68.188477,4689.0,11
+test_80_11.png,42.2278,Moderate Impact,Structural Scale (Object Footprint),25.32,35.72,38.96,6.68335,43.09082,1774.0,6
+test_80_12.png,100.0,High Impact,Extent (Coverage),40.0,35.0,25.0,25.849915,100.0,14111.0,3
+test_80_13.png,57.7999,High Impact,Extent (Coverage),36.28,32.18,31.53,13.1073,53.149414,2177.0,8
+test_80_14.png,75.3013,High Impact,Extent (Coverage),37.17,31.56,31.27,17.495728,67.895508,3633.0,7
+test_80_15.png,7.6532,Low Impact,Structural Scale (Object Footprint),6.38,21.44,72.18,0.305176,4.6875,200.0,1
+test_80_16.png,95.9985,High Impact,Extent (Coverage),37.5,36.46,26.04,22.499084,100.0,14188.0,2
+test_80_1.png,76.9506,High Impact,Extent (Coverage),43.92,29.9,26.18,21.122742,65.74707,2659.0,17
+test_80_2.png,83.701,High Impact,Extent (Coverage),47.79,28.11,24.11,32.099915,67.211914,2668.0,18
+test_80_3.png,84.2559,High Impact,Extent (Coverage),47.47,26.73,25.79,33.277893,64.355469,3095.0,23
+test_80_4.png,82.0669,High Impact,Extent (Coverage),48.74,28.18,23.08,34.266663,66.064453,2352.0,24
+test_80_5.png,59.9856,High Impact,Concentration (Local Cluster),34.67,37.69,27.64,12.998962,64.599609,1801.0,11
+test_80_6.png,83.7733,High Impact,Extent (Coverage),47.75,30.4,21.86,28.170776,72.753906,2197.0,16
+test_80_7.png,75.3034,High Impact,Extent (Coverage),48.33,28.27,23.4,22.747803,60.81543,2035.0,14
+test_80_8.png,84.4318,High Impact,Extent (Coverage),36.92,33.49,29.59,19.482422,80.786133,4091.0,13
+test_80_9.png,36.8205,Moderate Impact,Concentration (Local Cluster),25.63,41.33,33.04,5.897522,43.481445,970.0,6
+test_8_10.png,58.6836,High Impact,Concentration (Local Cluster),33.7,37.64,28.66,12.359619,63.110352,1854.0,6
+test_81_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_81_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_81_12.png,26.1528,Low Impact,Structural Scale (Object Footprint),16.57,39.73,43.7,2.708435,29.6875,856.0,3
+test_81_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_81_14.png,10.6499,Low Impact,Structural Scale (Object Footprint),14.72,19.98,65.3,0.979614,6.079102,317.0,3
+test_81_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_81_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_8_11.png,62.0419,High Impact,Extent (Coverage),38.04,34.71,27.26,14.749146,61.523438,1874.0,8
+test_81_1.png,28.0236,Low Impact,Structural Scale (Object Footprint),15.23,28.88,55.9,2.667236,23.120117,1608.0,2
+test_8_12.png,16.9321,Low Impact,Structural Scale (Object Footprint),9.24,32.35,58.41,0.978088,15.649414,641.0,1
+test_81_2.png,34.8932,Moderate Impact,Structural Scale (Object Footprint),13.07,38.55,48.38,2.850342,38.427734,1868.0,1
+test_8_13.png,62.1454,High Impact,Extent (Coverage),40.42,33.93,25.64,15.701294,60.253906,1664.0,10
+test_81_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_8_14.png,77.3249,High Impact,Extent (Coverage),51.73,26.48,21.79,27.24762,58.496094,1861.0,15
+test_81_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_8_15.png,74.9199,High Impact,Extent (Coverage),53.39,24.38,22.22,27.059937,52.197266,1817.0,16
+test_81_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_8_16.png,59.7199,High Impact,Concentration (Local Cluster),34.5,37.79,27.71,12.876892,64.477539,1795.0,7
+test_81_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_81_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_81_8.png,28.0866,Low Impact,Structural Scale (Object Footprint),27.48,31.03,41.49,4.823303,24.902344,890.0,5
+test_81_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_8_1.png,40.1469,Moderate Impact,Concentration (Local Cluster),18.17,46.76,35.07,4.559326,53.637695,1299.0,3
+test_82_10.png,44.8255,Moderate Impact,Structural Scale (Object Footprint),18.42,30.98,50.6,5.160522,39.672852,3372.0,2
+test_82_11.png,92.9419,High Impact,Extent (Coverage),43.04,30.06,26.9,33.876038,79.833984,10407.0,10
+test_82_12.png,14.7823,Low Impact,Structural Scale (Object Footprint),9.51,29.42,61.06,0.878906,12.426758,534.0,2
+test_82_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_82_14.png,19.6923,Low Impact,Structural Scale (Object Footprint),16.82,23.87,59.31,2.070618,13.427734,894.0,2
+test_82_15.png,32.59,Moderate Impact,Structural Scale (Object Footprint),17.9,37.05,45.06,3.645325,34.49707,1413.0,2
+test_82_16.png,47.846,Moderate Impact,Structural Scale (Object Footprint),28.17,33.25,38.58,8.422852,45.458984,2233.0,5
+test_82_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_82_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_82_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_82_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_82_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_82_6.png,60.4114,High Impact,Structural Scale (Object Footprint),24.63,33.99,41.38,9.298706,58.666992,4576.0,5
+test_82_7.png,78.4302,High Impact,Extent (Coverage),35.05,33.08,31.88,17.179871,74.121094,4363.0,5
+test_82_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_82_9.png,19.5328,Low Impact,Structural Scale (Object Footprint),9.79,34.25,55.96,1.194763,19.116211,783.0,1
+test_8_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_83_10.png,52.4212,Moderate Impact,Extent (Coverage),51.03,28.97,20.01,16.717529,43.383789,721.0,32
+test_83_11.png,26.7706,Low Impact,Structural Scale (Object Footprint),14.26,40.95,44.78,2.386475,31.323242,942.0,4
+test_83_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_83_13.png,43.2092,Moderate Impact,Extent (Coverage),40.62,33.36,26.01,10.971069,41.186523,828.0,20
+test_83_14.png,83.8655,High Impact,Extent (Coverage),47.7,25.73,26.58,36.042786,61.645508,3256.0,38
+test_83_15.png,51.0458,Moderate Impact,Concentration (Local Cluster),32.24,35.39,32.38,10.284424,51.611328,1790.0,11
+test_83_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_83_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_83_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_83_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_83_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_83_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_83_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_83_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_83_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_83_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_8_3.png,22.3147,Low Impact,Structural Scale (Object Footprint),15.12,33.28,51.6,2.108765,21.21582,869.0,2
+test_84_10.png,41.3391,Moderate Impact,Concentration (Local Cluster),27.35,40.89,31.76,7.066345,48.291016,1130.0,8
+test_84_11.png,63.6706,High Impact,Extent (Coverage),39.18,30.21,30.61,15.589905,54.956055,2490.0,18
+test_84_12.png,31.2803,Moderate Impact,Concentration (Local Cluster),23.53,39.91,36.56,4.600525,35.668945,857.0,6
+test_84_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_84_14.png,27.8807,Low Impact,Structural Scale (Object Footprint),14.4,42.75,42.84,2.510071,34.057617,935.0,3
+test_84_15.png,30.4512,Moderate Impact,Structural Scale (Object Footprint),18.58,34.18,47.24,3.536987,29.736328,1356.0,3
+test_84_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_84_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_84_2.png,4.7834,Low Impact,Structural Scale (Object Footprint),5.51,18.76,75.73,0.164795,2.563477,86.0,2
+test_84_3.png,16.1792,Low Impact,Structural Scale (Object Footprint),21.23,27.78,50.99,2.146912,12.841797,446.0,4
+test_84_4.png,23.7502,Low Impact,Structural Scale (Object Footprint),30.07,30.19,39.75,4.463196,20.483398,584.0,10
+test_84_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_84_6.png,38.7976,Moderate Impact,Structural Scale (Object Footprint),33.85,30.81,35.34,8.207703,34.155273,1232.0,9
+test_84_7.png,60.5266,High Impact,Extent (Coverage),51.55,24.93,23.52,19.500732,43.115234,1328.0,19
+test_84_8.png,37.3594,Moderate Impact,Extent (Coverage),40.46,22.87,36.67,9.446716,24.414062,1230.0,11
+test_84_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_8_4.png,35.0517,Moderate Impact,Structural Scale (Object Footprint),21.06,39.18,39.76,4.614258,39.233398,1273.0,5
+test_85_10.png,55.979,High Impact,Extent (Coverage),45.5,26.59,27.91,15.917969,42.529297,1600.0,21
+test_85_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_85_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_85_13.png,40.9822,Moderate Impact,Extent (Coverage),39.28,35.2,25.52,10.061646,41.210938,717.0,16
+test_85_14.png,33.5997,Moderate Impact,Concentration (Local Cluster),23.33,44.43,32.24,4.899597,42.651367,769.0,6
+test_85_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_85_16.png,18.0797,Low Impact,Structural Scale (Object Footprint),20.73,20.18,59.09,2.342224,10.424805,748.0,5
+test_85_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_85_2.png,10.2392,Low Impact,Structural Scale (Object Footprint),7.34,25.7,66.95,0.469971,7.519531,308.0,1
+test_85_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_85_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_85_5.png,56.7651,High Impact,Extent (Coverage),41.96,35.98,22.06,14.886475,58.349609,1028.0,14
+test_85_6.png,34.1202,Moderate Impact,Concentration (Local Cluster),14.32,43.88,41.8,3.05481,42.773438,1333.0,4
+test_85_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_85_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_85_9.png,65.2284,High Impact,Extent (Coverage),56.27,26.71,17.02,22.938538,49.780273,808.0,30
+test_8_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_86_10.png,18.4941,Low Impact,Structural Scale (Object Footprint),9.91,32.2,57.88,1.145935,17.016602,751.0,1
+test_86_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_86_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_86_13.png,6.0156,Low Impact,Structural Scale (Object Footprint),9.21,17.9,72.89,0.346375,3.076172,126.0,2
+test_86_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_86_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_86_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_86_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_86_2.png,18.4516,Low Impact,Structural Scale (Object Footprint),9.83,32.46,57.71,1.133728,17.114258,743.0,1
+test_86_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_86_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_86_5.png,12.6197,Low Impact,Structural Scale (Object Footprint),8.13,28.44,63.44,0.640869,10.253906,420.0,1
+test_86_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_86_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_86_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_86_9.png,3.4261,Low Impact,Structural Scale (Object Footprint),3.78,13.22,83.0,0.080872,1.293945,53.0,1
+test_8_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_87_10.png,45.9221,Moderate Impact,Extent (Coverage),43.79,30.5,25.72,12.567139,40.014648,914.0,15
+test_87_11.png,29.541,Low Impact,Structural Scale (Object Footprint),29.45,28.23,42.31,5.438232,23.828125,1024.0,9
+test_87_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_87_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_87_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_87_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_87_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_87_1.png,33.531,Moderate Impact,Structural Scale (Object Footprint),34.71,28.82,36.47,7.273865,27.612305,980.0,9
+test_87_2.png,75.369,High Impact,Extent (Coverage),53.07,25.63,21.29,25.692749,55.200195,1688.0,23
+test_87_3.png,59.9866,High Impact,Extent (Coverage),50.11,26.21,23.68,18.788147,44.921875,1322.0,20
+test_87_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_87_5.png,73.4929,High Impact,Extent (Coverage),54.43,23.37,22.2,27.113342,49.072266,1745.0,25
+test_87_6.png,78.1545,High Impact,Extent (Coverage),51.18,27.51,21.31,40.939331,61.425781,1818.0,38
+test_87_7.png,76.608,High Impact,Extent (Coverage),45.11,26.76,28.13,21.600342,58.569336,3043.0,17
+test_87_8.png,14.1489,Low Impact,Structural Scale (Object Footprint),8.56,29.95,61.49,0.756836,12.109375,496.0,1
+test_87_9.png,45.9999,Moderate Impact,Concentration (Local Cluster),33.04,40.14,26.81,9.500122,52.758789,997.0,10
+test_8_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_88_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_88_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_88_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_88_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_88_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_88_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_88_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_88_1.png,10.7948,Low Impact,Structural Scale (Object Footprint),12.96,23.43,63.61,0.874329,7.226562,309.0,4
+test_88_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_88_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_88_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_88_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_88_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_88_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_88_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_88_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_8_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_89_10.png,100.0,High Impact,Extent (Coverage),40.0,35.0,25.0,34.216309,100.0,21955.0,4
+test_89_11.png,99.9658,High Impact,Extent (Coverage),40.01,34.98,25.01,47.4823,99.902344,31118.0,1
+test_89_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_89_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_89_14.png,6.9088,Low Impact,Structural Scale (Object Footprint),5.94,20.78,73.28,0.256348,4.101562,168.0,1
+test_89_15.png,42.8745,Moderate Impact,Structural Scale (Object Footprint),15.13,37.91,46.96,4.05426,46.435547,2657.0,1
+test_89_16.png,24.7693,Low Impact,Structural Scale (Object Footprint),13.38,28.53,58.09,2.070618,20.19043,1357.0,1
+test_89_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_89_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_89_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_89_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_89_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_89_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_89_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_89_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_89_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_8_9.png,44.2224,Moderate Impact,Structural Scale (Object Footprint),28.59,34.68,36.73,7.901001,43.823242,1729.0,6
+test_90_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_90_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_90_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_90_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_90_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_90_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_90_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_90_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_90_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_90_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_90_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_90_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_90_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_90_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_90_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_90_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_9_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_91_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_91_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_91_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_91_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_91_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_91_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_91_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_9_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_91_1.png,34.9749,Moderate Impact,Concentration (Local Cluster),25.96,39.58,34.46,5.674744,39.550781,952.0,5
+test_9_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_91_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_9_13.png,30.3676,Moderate Impact,Structural Scale (Object Footprint),16.87,35.93,47.19,3.20282,31.176758,1346.0,2
+test_91_3.png,10.8949,Low Impact,Structural Scale (Object Footprint),7.57,26.51,65.92,0.515747,8.251953,338.0,1
+test_9_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_91_4.png,14.5708,Low Impact,Structural Scale (Object Footprint),12.63,29.56,57.81,1.150513,12.304688,465.0,2
+test_9_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_91_5.png,31.6894,Moderate Impact,Structural Scale (Object Footprint),23.03,24.65,52.33,4.560852,22.314453,1802.0,5
+test_9_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_91_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_91_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_91_8.png,28.3211,Low Impact,Structural Scale (Object Footprint),15.54,28.87,55.58,2.75116,23.364258,1624.0,2
+test_91_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_9_1.png,31.0889,Moderate Impact,Structural Scale (Object Footprint),20.02,33.7,46.29,3.889465,29.931641,1357.0,3
+test_92_10.png,39.9977,Moderate Impact,Concentration (Local Cluster),26.32,40.63,33.05,6.57959,46.435547,1145.0,6
+test_92_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_92_12.png,60.4999,High Impact,Extent (Coverage),37.12,33.76,29.13,14.035034,58.349609,2035.0,8
+test_92_13.png,75.6885,High Impact,Extent (Coverage),41.75,25.22,33.03,19.749451,54.541016,6187.0,5
+test_92_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_92_15.png,52.7478,Moderate Impact,Extent (Coverage),36.62,33.74,29.63,12.07428,50.854492,1601.0,14
+test_92_16.png,81.7381,High Impact,Extent (Coverage),48.94,21.37,29.7,35.411072,49.902344,3861.0,32
+test_92_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_92_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_92_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_92_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_92_5.png,61.4921,High Impact,Extent (Coverage),36.97,29.89,33.14,14.207458,52.514648,2722.0,12
+test_92_6.png,44.9855,Moderate Impact,Structural Scale (Object Footprint),21.86,32.86,45.28,6.14624,42.236328,2719.0,4
+test_92_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_92_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_92_9.png,89.3103,High Impact,Extent (Coverage),44.79,27.22,27.99,42.256165,69.458008,7510.0,20
+test_9_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_93_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_93_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_93_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_93_13.png,39.6655,Moderate Impact,Concentration (Local Cluster),24.77,41.75,33.48,6.140137,47.314453,1156.0,5
+test_93_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_93_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_93_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_93_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_93_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_93_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_93_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_93_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_93_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_93_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_93_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_93_9.png,14.4038,Low Impact,Structural Scale (Object Footprint),10.93,24.26,64.8,0.984192,9.985352,571.0,2
+test_9_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_94_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_94_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_94_12.png,13.8261,Low Impact,Structural Scale (Object Footprint),9.91,23.18,66.92,0.856018,9.155273,561.0,1
+test_94_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_94_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_94_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_94_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_94_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_94_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_94_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_94_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_94_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_94_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_94_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_94_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_94_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_9_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_95_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_95_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_95_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_95_13.png,5.7406,Low Impact,Structural Scale (Object Footprint),5.32,18.61,76.08,0.190735,3.051758,125.0,1
+test_95_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_95_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_95_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_95_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_95_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_95_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_95_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_95_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_95_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_95_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_95_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_95_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_9_5.png,31.9621,Moderate Impact,Structural Scale (Object Footprint),21.83,33.63,44.54,4.360962,30.712891,1328.0,3
+test_96_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_96_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_96_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_96_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_96_14.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_96_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_96_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_96_1.png,27.386,Low Impact,Structural Scale (Object Footprint),13.31,31.58,55.11,2.278137,24.707031,1493.0,1
+test_96_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_96_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_96_4.png,1.9114,Low Impact,Structural Scale (Object Footprint),2.43,8.49,89.08,0.028992,0.463867,19.0,1
+test_96_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_96_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_96_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_96_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_96_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_9_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_97_10.png,6.4826,Low Impact,Structural Scale (Object Footprint),6.44,14.76,78.8,0.260925,2.734375,171.0,1
+test_97_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_97_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_97_13.png,8.7455,Low Impact,Structural Scale (Object Footprint),9.02,31.56,59.42,0.492859,7.885742,177.0,2
+test_97_14.png,9.7932,Low Impact,Structural Scale (Object Footprint),7.18,25.13,67.69,0.439453,7.03125,288.0,1
+test_97_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_97_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_97_1.png,2.9517,Low Impact,Structural Scale (Object Footprint),3.39,11.87,84.74,0.062561,1.000977,41.0,1
+test_97_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_97_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_97_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_97_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_97_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_97_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_97_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_97_9.png,12.3616,Low Impact,Structural Scale (Object Footprint),9.24,22.4,68.36,0.714111,7.910156,468.0,1
+test_9_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_98_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_98_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_98_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_98_13.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_98_14.png,14.5422,Low Impact,Structural Scale (Object Footprint),8.66,30.32,61.02,0.787354,12.597656,516.0,1
+test_98_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_98_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_98_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_98_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_98_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_98_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_98_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_98_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_98_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_98_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_98_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_9_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_99_10.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_99_11.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_99_12.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_99_13.png,4.5369,Low Impact,Structural Scale (Object Footprint),5.22,9.98,84.8,0.14801,1.293945,97.0,1
+test_99_14.png,5.6536,Low Impact,Structural Scale (Object Footprint),6.18,18.14,75.69,0.218201,2.929688,120.0,5
+test_99_15.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_99_16.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_99_1.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_99_2.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_99_3.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_99_4.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_99_5.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_99_6.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_99_7.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_99_8.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_99_9.png,0.0,Zero Impact,None (No Change Detected),0.0,0.0,0.0,0.0,0.0,0.0,0
+test_9_9.png,25.3516,Low Impact,Structural Scale (Object Footprint),12.16,33.91,53.93,1.927185,24.560547,1225.0,2

@@ -1,0 +1,10 @@
+{
+    "total_images_processed": 2048,
+    "mean_change_percentage": 5.094263,
+    "median_change_percentage": 0.0,
+    "min_change_percentage": 0.0,
+    "max_change_percentage": 68.493652,
+    "mean_connected_region_count": 4.2349,
+    "median_connected_region_count": 0.0,
+    "mean_largest_region_area": 794.0479
+}

@@ -1,0 +1,44 @@
+================ (Wed Sep 30 01:22:06 2026) ================
+gpu_ids: [0] project_name: ChangeFormer_LEVIR print_models: False checkpoints_root: checkpoints vis_root: vis num_workers: 8 dataset: CDDataset data_name: quick_start_LEVIR batch_size: 1 split: demo img_size: 256 n_class: 2 embed_dim: 256 net_G: ChangeFormerV6 checkpoint_name: best_ckpt.pt checkpoint_dir: checkpoints\ChangeFormer_LEVIR vis_dir: vis\ChangeFormer_LEVIR loading last checkpoint...
+Eval Historical_best_acc = 0.9495 (at epoch 176)
+
+Begin evaluation...
+Is_training: False. [1,7],  running_mf1: 0.49921
+acc: 0.98060 miou: 0.49030 mf1: 0.49510 iou_0: 0.98060 iou_1: 0.00000 F1_0: 0.99021 F1_1: 0.00000 precision_0: 1.00000 precision_1: 0.00000 recall_0: 0.98060 recall_1: 0.00000 
+
+================ (Wed Sep 30 01:36:53 2026) ================
+gpu_ids: [0] project_name: ChangeFormer_LEVIR print_models: False checkpoints_root: checkpoints vis_root: vis num_workers: 8 dataset: CDDataset data_name: quick_start_LEVIR batch_size: 1 split: demo img_size: 256 n_class: 2 embed_dim: 256 net_G: ChangeFormerV6 checkpoint_name: best_ckpt.pt checkpoint_dir: checkpoints\ChangeFormer_LEVIR vis_dir: vis\ChangeFormer_LEVIR loading last checkpoint...
+Eval Historical_best_acc = 0.9495 (at epoch 176)
+
+Begin evaluation...
+Is_training: False. [1,7],  running_mf1: 0.99162
+acc: 0.96657 miou: 0.89595 mf1: 0.94392 iou_0: 0.95994 iou_1: 0.83197 F1_0: 0.97956 F1_1: 0.90828 precision_0: 0.97853 precision_1: 0.91262 recall_0: 0.98060 recall_1: 0.90398 
+
+================ (Wed Sep 30 02:26:38 2026) ================
+gpu_ids: [0] project_name: ChangeFormer_LEVIR print_models: False checkpoints_root: checkpoints vis_root: vis num_workers: 8 dataset: CDDataset data_name: LEVIR batch_size: 1 split: test img_size: 256 n_class: 2 embed_dim: 256 net_G: ChangeFormerV6 checkpoint_name: best_ckpt.pt checkpoint_dir: checkpoints\ChangeFormer_LEVIR vis_dir: vis\ChangeFormer_LEVIR loading last checkpoint...
+Eval Historical_best_acc = 0.9495 (at epoch 176)
+
+Begin evaluation...
+Is_training: False. [1,2048],  running_mf1: 0.96298
+Is_training: False. [101,2048],  running_mf1: 0.50000
+Is_training: False. [201,2048],  running_mf1: 0.96538
+Is_training: False. [301,2048],  running_mf1: 0.98249
+Is_training: False. [401,2048],  running_mf1: 0.50000
+Is_training: False. [501,2048],  running_mf1: 0.49931
+Is_training: False. [601,2048],  running_mf1: 0.50000
+Is_training: False. [701,2048],  running_mf1: 0.90612
+Is_training: False. [801,2048],  running_mf1: 0.92536
+Is_training: False. [901,2048],  running_mf1: 0.91028
+Is_training: False. [1001,2048],  running_mf1: 0.97114
+Is_training: False. [1101,2048],  running_mf1: 0.93391
+Is_training: False. [1201,2048],  running_mf1: 0.49982
+Is_training: False. [1301,2048],  running_mf1: 0.94792
+Is_training: False. [1401,2048],  running_mf1: 0.50000
+Is_training: False. [1501,2048],  running_mf1: 0.96807
+Is_training: False. [1601,2048],  running_mf1: 0.97151
+Is_training: False. [1701,2048],  running_mf1: 0.49924
+Is_training: False. [1801,2048],  running_mf1: 0.50000
+Is_training: False. [1901,2048],  running_mf1: 0.49871
+Is_training: False. [2001,2048],  running_mf1: 0.96594
+acc: 0.99039 miou: 0.90738 mf1: 0.94947 iou_0: 0.98994 iou_1: 0.82482 F1_0: 0.99494 F1_1: 0.90400 precision_0: 0.99400 precision_1: 0.92054 recall_0: 0.99589 recall_1: 0.88805 
+

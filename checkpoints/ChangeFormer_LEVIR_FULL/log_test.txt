@@ -1,0 +1,2 @@
+================ (Wed Sep 30 02:25:05 2026) ================
+gpu_ids: [0] project_name: ChangeFormer_LEVIR_FULL print_models: False checkpoints_root: checkpoints vis_root: vis num_workers: 8 dataset: CDDataset data_name: LEVIR batch_size: 1 split: test img_size: 256 n_class: 2 embed_dim: 256 net_G: ChangeFormerV6 checkpoint_name: best_ckpt.pt checkpoint_dir: checkpoints\ChangeFormer_LEVIR_FULL vis_dir: vis\ChangeFormer_LEVIR_FULL 

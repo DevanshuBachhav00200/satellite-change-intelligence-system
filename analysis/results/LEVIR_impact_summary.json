@@ -1,0 +1,26 @@
+{
+    "total_images": 2048,
+    "cii_statistics": {
+        "mean": 19.7828,
+        "median": 0.0,
+        "std": 26.6988,
+        "min": 0.0,
+        "max": 100.0,
+        "p25": 0.0,
+        "p75": 39.3289,
+        "p90": 64.7658,
+        "p95": 72.9976
+    },
+    "impact_category_counts": {
+        "Zero Impact": 1113,
+        "Low Impact": 293,
+        "Moderate Impact": 326,
+        "High Impact": 316
+    },
+    "primary_driver_counts": {
+        "Structural Scale (Object Footprint)": 430,
+        "None (No Change Detected)": 1113,
+        "Concentration (Local Cluster)": 108,
+        "Extent (Coverage)": 397
+    }
+}

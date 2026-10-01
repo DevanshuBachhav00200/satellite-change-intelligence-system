@@ -1,0 +1,35 @@
+# Python virtual environments & build artifacts
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+*.log
+
+# Environment variable files (exclude secrets, allow example templates)
+.env
+.env.*
+!.env.example
+!frontend/.env.example
+
+# Node dependencies & frontend production build
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+
+# Large Datasets (>100MB)
+LEVIR-CD256/
+datasets/
+
+# Large Model Weights (>100MB)
+checkpoints/ChangeFormer_LEVIR/best_ckpt.pt
+
+# IDEs & System files
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
