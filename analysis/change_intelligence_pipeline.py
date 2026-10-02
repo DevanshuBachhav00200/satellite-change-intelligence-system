@@ -70,7 +70,7 @@ class SatelliteChangeIntelligencePipeline:
 
         net_G = define_G(args=args, gpu_ids=args.gpu_ids)
 
-        checkpoint = torch.load(self.checkpoint_path, map_location=self.device)
+        checkpoint = torch.load(self.checkpoint_path, map_location=self.device, weights_only=False)
         if 'model_G_state_dict' in checkpoint:
             net_G.load_state_dict(checkpoint['model_G_state_dict'])
         else:
